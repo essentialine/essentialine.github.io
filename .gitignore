@@ -3,6 +3,13 @@ _site/
 *.xmp
 Gemfile.lock
 _drafts/
+_process/
 
 # machine-local Claude context — never publish
 CLAUDE.md
+
+# gThumb metadata directories — never publish
+**/.comments/
+
+# local symlinks to scan working dirs — never publish
+*.blick.tracing

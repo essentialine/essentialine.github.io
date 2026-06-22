@@ -7,7 +7,7 @@ tags:
 ---
 
 
-![Animals on vim's 4 panel merge screen](/assets/images/vim-mergetool.png)
+![Animals on vim's 4 panel merge screen](/assets/images/mergetool/vim-mergetool.png)
 
 *An early try at programming-with-cartoons, in the spirit of [\_why's Poignant Guide](https://poignant.guide/). Current work is at [home](/).*
 

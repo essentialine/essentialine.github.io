@@ -9,14 +9,14 @@ tags:
 
 
 
-![alt text](/assets/images/routemap.png "SQLite and Pandas quick intro")
+![alt text](/assets/images/SQLite-Pandas-Cartopy-Simplified/routemap.png "SQLite and Pandas quick intro")
 
 *An early try at programming-with-cartoons, in the spirit of [\_why's Poignant Guide](https://poignant.guide/). Current work is at [home](/).*
 
 Download the flights database here: [flights.db](/assets/notebooks/flights.db)
 
 
-![alt text](/assets/images/pandas_sqlite1_01.jpg "Quick Intro")
+![alt text](/assets/images/SQLite-Pandas-Cartopy-Simplified/pandas_sqlite1_01.jpg "Quick Intro")
 
 
 ```python
@@ -157,7 +157,7 @@ airdf
 
 
 
-![alt text](/assets/images/pandas_sqlite1_02.jpg "Filtering in SQL")
+![alt text](/assets/images/SQLite-Pandas-Cartopy-Simplified/pandas_sqlite1_02.jpg "Filtering in SQL")
 
 
 ```python
@@ -289,7 +289,7 @@ candf
 
 
 
-![alt text](/assets/images/pandas_sqlite1_03.jpg)
+![alt text](/assets/images/SQLite-Pandas-Cartopy-Simplified/pandas_sqlite1_03.jpg)
 
 
 ```python
@@ -420,7 +420,7 @@ airdf.loc[airdf.country == "Canada"]
 
 
 
-![alt text](/assets/images/pandas_sqlite1_04.jpg)
+![alt text](/assets/images/SQLite-Pandas-Cartopy-Simplified/pandas_sqlite1_04.jpg)
 
 
 ```python
@@ -518,7 +518,7 @@ routes
 
 
 
-![alt text](/assets/images/pandas_sqlite2.jpg)
+![alt text](/assets/images/SQLite-Pandas-Cartopy-Simplified/pandas_sqlite2.jpg)
 
 
 ```python
@@ -535,7 +535,7 @@ plt.show()
 
 
     
-![Route Map](/assets/images/routemap.png)
+![Route Map](/assets/images/SQLite-Pandas-Cartopy-Simplified/routemap.png)
 
 
 <details class="comic-transcript inline-block">

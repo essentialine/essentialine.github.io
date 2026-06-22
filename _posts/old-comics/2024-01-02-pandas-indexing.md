@@ -8,8 +8,8 @@ tags:
 
 
 
-![a castle from which a panda escapes](/assets/images/escape.jpg "Escape the Pandas Indexing Jungle")
-![first make a dataframe of random numbers with labels](/assets/images/randnum.jpg)
+![a castle from which a panda escapes](/assets/images/pandas-indexing/escape.jpg "Escape the Pandas Indexing Jungle")
+![first make a dataframe of random numbers with labels](/assets/images/pandas-indexing/randnum.jpg)
 
 
 *An early try at programming-with-cartoons, in the spirit of [\_why's Poignant Guide](https://poignant.guide/). Current work is at [home](/).*
@@ -101,7 +101,7 @@ df1
 
 
 
-![the basic indexing goes by labeled columns, like a python dictionary](/assets/images/randnum_01.jpg)
+![the basic indexing goes by labeled columns, like a python dictionary](/assets/images/pandas-indexing/randnum_01.jpg)
 
 
 ```python
@@ -121,7 +121,7 @@ df1[2]  # column labelled 2, like a python dictionary
 
 
 
-<img src="/assets/images/randnum_02.jpg" alt="use .iloc for position based indexing" style="height: 200px;"/>
+<img src="/assets/images/pandas-indexing/randnum_02.jpg" alt="use .iloc for position based indexing" style="height: 200px;"/>
 
 
 ```python
@@ -151,7 +151,7 @@ df1.iloc[2,3] # third entry of the above row
 
 
 
-<img src="/assets/images/randnum_03.jpg" alt="use .loc for label based indexing" style="height: 200px;"/>
+<img src="/assets/images/pandas-indexing/randnum_03.jpg" alt="use .loc for label based indexing" style="height: 200px;"/>
 
 
 ```python
@@ -169,7 +169,7 @@ df1.loc[2]  # row labelled 2
 
 
 
-<img src="/assets/images/randnum_04.jpg" alt="which also slices" style="height: 200px;"/>
+<img src="/assets/images/pandas-indexing/randnum_04.jpg" alt="which also slices" style="height: 200px;"/>
 
 
 ```python
@@ -265,7 +265,7 @@ df1.loc[2:4,2:4]
 
 
 
-<img src="/assets/images/randnum_06.jpg" alt="can send a callable function" style="height: 200px;"/>
+<img src="/assets/images/pandas-indexing/randnum_06.jpg" alt="can send a callable function" style="height: 200px;"/>
 The function takes in the dataframe and returns something that .loc can index on
 
 
@@ -321,7 +321,7 @@ df1.loc[lambda df_parameter: df_parameter[2]>0]
 
 
 
-<img src="/assets/images/randnum_05.jpg" alt="filter with a Boolean" style="height: 200px;"/>
+<img src="/assets/images/pandas-indexing/randnum_05.jpg" alt="filter with a Boolean" style="height: 200px;"/>
 
 
 
@@ -377,7 +377,7 @@ df1.loc[df1[2]>0]
 
 
 
-<img src="/assets/images/randnum_07.jpg" alt="dig a little deeper with Booleans" style="height: 200px;"/>
+<img src="/assets/images/pandas-indexing/randnum_07.jpg" alt="dig a little deeper with Booleans" style="height: 200px;"/>
 
 
 
@@ -638,7 +638,7 @@ df
 
 
 
-<img src="/assets/images/randnum_08.jpg" alt="Labels" style="height: 200px;"/>
+<img src="/assets/images/pandas-indexing/randnum_08.jpg" alt="Labels" style="height: 200px;"/>
 
 
 
@@ -1043,7 +1043,7 @@ df2[1:3]
 
 
 
-<img src="/assets/images/randnum_10.jpg" alt="Grouping" style="height: 300px;"/>
+<img src="/assets/images/pandas-indexing/randnum_10.jpg" alt="Grouping" style="height: 300px;"/>
 
 
 
@@ -1126,7 +1126,7 @@ df
 
 
 
-<img src="/assets/images/randnum_11.jpg" alt="idxmin" style="height: 200px;"/>
+<img src="/assets/images/pandas-indexing/randnum_11.jpg" alt="idxmin" style="height: 200px;"/>
 
 
 
@@ -1182,7 +1182,7 @@ df.loc[df.groupby("AAA")["BBB"].idxmin()]
 
 
 
-<img src="/assets/images/randnum_13.jpg" alt="print groups trick" style="height: 200px;"/>
+<img src="/assets/images/pandas-indexing/randnum_13.jpg" alt="print groups trick" style="height: 200px;"/>
 
 
 
@@ -1272,7 +1272,7 @@ df.groupby("AAA").apply(lambda a: a[:]) # https://stackoverflow.com/a/62803666
 
 
 
-<img src="/assets/images/randnum_12.jpg" alt="sort first" style="height: 200px;"/>
+<img src="/assets/images/pandas-indexing/randnum_12.jpg" alt="sort first" style="height: 200px;"/>
 
 
 
