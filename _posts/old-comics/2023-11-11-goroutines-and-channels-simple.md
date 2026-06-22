@@ -9,7 +9,7 @@ tags:
 ---
 
 
-![Animals explaining goroutines and channels](/assets/images/goroutine.channel.png)
+![Animals explaining goroutines and channels](/assets/images/goroutines-and-channels-simple/goroutine.channel.png)
 
 *An early try at programming-with-cartoons, in the spirit of [\_why's Poignant Guide](https://poignant.guide/). Current work is at [home](/).*
 

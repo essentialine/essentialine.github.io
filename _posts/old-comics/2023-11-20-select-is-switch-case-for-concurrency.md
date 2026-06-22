@@ -8,7 +8,7 @@ tags:
 ---
 
 
-![Animals explain the select concurrency statement](/assets/images/select.anim.png)
+![Animals explain the select concurrency statement](/assets/images/select-is-switch-case-for-concurrency/select.anim.png)
 
 *An early try at programming-with-cartoons, in the spirit of [\_why's Poignant Guide](https://poignant.guide/). Current work is at [home](/).*
 
