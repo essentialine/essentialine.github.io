@@ -15,15 +15,12 @@ tags:
 ![My line tracing over de László's 1928 Graziella](/assets/images/de-laszlo-portrait-graziella-patino/gracclip.png)
 *Over a [crop of a Christie's auction](https://www.christies.com/en/auction/graziella-pati-o-de-ortiz-linares-collection-evening-sale-24810-par/).*
 
-![](/assets/images/de-laszlo-portrait-graziella-patino/260621.callicrop1.png)
-
 What made me stop was the face, the eyes, the beauty.
 It's a [crop](https://www.christies.com/en/auction/graziella-pati-o-de-ortiz-linares-collection-evening-sale-24810-par/), and the crop is more intense, more focused,
 extraordinary, but it leaves off some kind of grandeur, the fullness of the mystery.
 It really does bring in the interest on the face;
 the full is better for larger format, but the crop just grabs.
 
-![](/assets/images/de-laszlo-portrait-graziella-patino/260621.callicrop2.png)
 The painting is Philip de László's [*Portrait of Doña Graziella Patiño de Ortiz Linares*](https://www.delaszlocatalogueraisonne.com/catalogue/the-catalogue/ortiz-linares-graziella-patio-de-nee-graziella-patio-rodriguez-6875/search/composition:portrait), 1928 —
 oil on canvas, up at [Christie's Paris on 23 September 2026](https://www.christies.com/en/auction/graziella-pati-o-de-ortiz-linares-collection-evening-sale-24810-par/),
 the hero image of the sale dispersing Graziella Patiño's own four-decade collection.
@@ -47,8 +44,6 @@ The line highlights the structure.
 Indeed, as he drew the head with the brush, he may have had an underdrawing to guide him;
 I suppose these are my guesses of those guides.
 
-![](/assets/images/de-laszlo-portrait-graziella-patino/260621.callicrop3.png)
-
 Tracing this face, somehow the lines I drew captured not nothing — and there weren't many.
 He made many subtle judgements, but they surface in ways that are detectable with a pen.
 Where did the line fight me? Nowhere; it was easy, clean.
@@ -69,7 +64,7 @@ I find de László very educational because of his approach.
 ![My line beside de László's 1931 study](/assets/images/de-laszlo-portrait-graziella-patino/diptych-graziella-1931.png)
 *The 1931 study — [de László Catalogue Raisonné, no. 6879](https://www.delaszlocatalogueraisonne.com/catalogue/the-catalogue/ortiz-linares-graziella-patio-de-nee-graziella-patio-rodriguez-6879).*
 
-Laszlo painted another portait of her a few years later, they were obviously fans of each other.
+László painted another portait of her a few years later, they were obviously fans of each other.
 Less dramatic, flair, red, instead more peaceful, mature, subtle.  
 We see the face form so clearly here, and shares much with the 1928.
 
@@ -101,7 +96,7 @@ The dress, how it falls, is one of the signals of 3-D form — kind of masked, b
 
 This is not something you see — and I think it is worth even more.
 It's about glamor, yes, but so much more than that:
-we can feel Laszlo's sensing of Myfanwy's personality, her emotion, and his 
+we can feel László's sensing of Myfanwy's personality, her emotion, and his 
 technicality is exceptional.
 
 **Image credits & sources.** All de László paintings here are [public domain](https://en.wikipedia.org/wiki/Philip_de_L%C3%A1szl%C3%B3) —
@@ -113,3 +108,11 @@ faithful flat reproductions of public-domain art carry no new copyright (US: *Br
 - *Lady Louis Mountbatten (Edwina Ashley)*, 1924 study — [Catalogue Raisonné 3520](https://www.delaszlocatalogueraisonne.com/catalogue/the-catalogue/mountbatten-lady-louis-nee-the-honourable-edwina-ashley-wife-of-1st-earl-mountbatten-of-burma-3520) · public domain at [Creazilla](https://creazilla.com/media/traditional-art/7088822/philip-de-laszlo---study-portrait-of-lady-louis-mountbatten)
 - *Helen Beatrice Myfanwy Hughes*, 1931 — [Catalogue Raisonné 5701](https://www.delaszlocatalogueraisonne.com/catalogue/the-catalogue/hughes-helen-beatrice-myfanwy-5701) · sold [Christie's lot 6062540](https://www.christies.com/en/lot/lot-6062540), estimate £15,000–25,000, realised £137,000
 - Public-domain basis: [Philip de László (1869–1937), Wikipedia](https://en.wikipedia.org/wiki/Philip_de_L%C3%A1szl%C3%B3)
+
+### Calligraphy practice
+
+![](/assets/images/de-laszlo-portrait-graziella-patino/260621.callicrop1.png)
+
+![](/assets/images/de-laszlo-portrait-graziella-patino/260621.callicrop2.png)
+
+![](/assets/images/de-laszlo-portrait-graziella-patino/260621.callicrop3.png)
