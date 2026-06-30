@@ -122,6 +122,7 @@ Also note Dali carefully painted her eyes.
 
 Further I traced the veil as its own shape but also needed to find the body through it.
 Knowing now that Dalí was carrying the Madonna alongside the sadomasochistic,
+Taking Dali at his word (of course), 
 I see the veil protectively — perhaps he might have been protective of her.
 His choice of this contrast invokes the neurological basis of violence and sexuality 
 in brain anatomy immediately.
