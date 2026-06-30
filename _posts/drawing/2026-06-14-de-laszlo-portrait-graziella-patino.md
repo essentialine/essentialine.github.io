@@ -15,6 +15,7 @@ tags:
 ![My line tracing over de László's 1928 Graziella](/assets/images/de-laszlo-portrait-graziella-patino/gracclip.png)
 *Over a [crop of a Christie's auction](https://www.christies.com/en/auction/graziella-pati-o-de-ortiz-linares-collection-evening-sale-24810-par/).*
 
+
 What made me stop was the face, the eyes, the beauty.
 It's a [crop](https://www.christies.com/en/auction/graziella-pati-o-de-ortiz-linares-collection-evening-sale-24810-par/), and the crop is more intense, more focused,
 extraordinary, but it leaves off some kind of grandeur, the fullness of the mystery.
@@ -34,15 +35,18 @@ I drew with a pen, over his brush.
 
 ![My line beside de László's 1928 oil](/assets/images/de-laszlo-portrait-graziella-patino/diptych-graziella-1928.png)
 
+
 Reduce his loaded, tonal oil down to a single contour, and somehow the beauty remains —
 a testament to his balance and his understanding of the anatomy and the geometry.
 But his luminousness is gone, of course, replaced with a spareness.
 It's a decision of where that line goes;
 it's not hard to discern, but in some way it has my judgement.
 
+
 The line highlights the structure.
 Indeed, as he drew the head with the brush, he may have had an underdrawing to guide him;
 I suppose these are my guesses of those guides.
+
 
 Tracing this face, somehow the lines I drew captured not nothing — and there weren't many.
 He made many subtle judgements, but they surface in ways that are detectable with a pen.
@@ -55,6 +59,7 @@ De László did preparatory drawings, which perhaps this is uncovering, though I
 The neck in the painting is much smoother than my line,
 but we see he accomplished a lot of 3-D form with his render,
 and I think the dress adds a surprising boost to the 3-D-ness.
+
 
 Is it a study, an homage, or its own drawing? It is all three, in that order.
 I find de László very educational because of his approach.
@@ -99,15 +104,31 @@ It's about glamor, yes, but so much more than that:
 we can feel László's sensing of Myfanwy's personality, her emotion, and his 
 technicality is exceptional.
 
-**Image credits & sources.** All de László paintings here are [public domain](https://en.wikipedia.org/wiki/Philip_de_L%C3%A1szl%C3%B3) —
-he died in 1937, so copyright has expired (author's life + 70; also pre-1930 US publication);
-faithful flat reproductions of public-domain art carry no new copyright (US: *Bridgeman v. Corel*, 1999; EU: Copyright Directive 2019, Art. 14).
+## Graziella — after Dalí, 1942
 
-- *Doña Graziella Patiño de Ortiz Linares*, 1928 — [Catalogue Raisonné 6875](https://www.delaszlocatalogueraisonne.com/catalogue/the-catalogue/ortiz-linares-graziella-patio-de-nee-graziella-patio-rodriguez-6875/search/composition:portrait) · [Christie's sale, 23 Sept 2026](https://www.christies.com/en/auction/graziella-pati-o-de-ortiz-linares-collection-evening-sale-24810-par/)
-- *Graziella Patiño*, 1931 study — [Catalogue Raisonné 6879](https://www.delaszlocatalogueraisonne.com/catalogue/the-catalogue/ortiz-linares-graziella-patio-de-nee-graziella-patio-rodriguez-6879)
-- *Lady Louis Mountbatten (Edwina Ashley)*, 1924 study — [Catalogue Raisonné 3520](https://www.delaszlocatalogueraisonne.com/catalogue/the-catalogue/mountbatten-lady-louis-nee-the-honourable-edwina-ashley-wife-of-1st-earl-mountbatten-of-burma-3520) · public domain at [Creazilla](https://creazilla.com/media/traditional-art/7088822/philip-de-laszlo---study-portrait-of-lady-louis-mountbatten)
-- *Helen Beatrice Myfanwy Hughes*, 1931 — [Catalogue Raisonné 5701](https://www.delaszlocatalogueraisonne.com/catalogue/the-catalogue/hughes-helen-beatrice-myfanwy-5701) · sold [Christie's lot 6062540](https://www.christies.com/en/lot/lot-6062540), estimate £15,000–25,000, realised £137,000
-- Public-domain basis: [Philip de László (1869–1937), Wikipedia](https://en.wikipedia.org/wiki/Philip_de_L%C3%A1szl%C3%B3)
+![My line tracing after Dalí's portrait of Graziella, 6.26](/assets/images/de-laszlo-portrait-graziella-patino/260626_dali.grazy.tracing.png)
+*Traced from Dalí's [*Mrs. Ortiz de Linares*](https://catalogues.salvador-dali.org/catalogues/en/heritageobject/968/), 1942 — Fundació Gala-Salvador Dalí catalogue P 569.*
+
+While painting this, Dalí [wrote to Graziella](https://www.sothebys.com/en/auctions/ecatalogue/2013/impressionist-modern-art-evening-sale-l13006/lot.68.html) describing it as the third stage of a personal trilogy:
+"Sadism, Masochism, and now Idealism."
+
+A different setting — the sky is open, she's wearing a black veil.
+The arm curled against her chest is anatomically precise; the other extends away, not a typical posture.
+The cloud at her figure gives depth.
+
+The smile has a Mona Lisa quality — it's in the lips.
+My tracing is not comparable to Dalí's execution.
+Also note Dali carefully painted her eyes.
+
+Further I traced the veil as its own shape but also needed to find the body through it.
+Knowing now that Dalí was carrying the Madonna alongside the sadomasochistic,
+I see the veil protectively — perhaps he might have been protective of her.
+His choice of this contrast invokes the neurological basis of violence and sexuality 
+in brain anatomy immediately.
+
+She's clearly older here, nearly two decades after de László's 1928.
+Perhaps that contributes to Dalí's trilogy —
+though Michelangelo's Pieta Madonna is much younger.
 
 ### Calligraphy practice
 
@@ -116,3 +137,15 @@ faithful flat reproductions of public-domain art carry no new copyright (US: *Br
 ![](/assets/images/de-laszlo-portrait-graziella-patino/260621.callicrop2.png)
 
 ![](/assets/images/de-laszlo-portrait-graziella-patino/260621.callicrop3.png)
+
+**Image credits & sources.** De László paintings are [public domain](https://en.wikipedia.org/wiki/Philip_de_L%C3%A1szl%C3%B3) —
+he died in 1937, so copyright has expired (author's life + 70; also pre-1930 US publication);
+faithful flat reproductions of public-domain art carry no new copyright (US: *Bridgeman v. Corel*, 1999; EU: Copyright Directive 2019, Art. 14).
+The Dalí is copyright Fundació Gala-Salvador Dalí (Dalí died 1989; not public domain until 2060); only my tracing appears here.
+
+- *Doña Graziella Patiño de Ortiz Linares*, 1928 — [Catalogue Raisonné 6875](https://www.delaszlocatalogueraisonne.com/catalogue/the-catalogue/ortiz-linares-graziella-patio-de-nee-graziella-patio-rodriguez-6875/search/composition:portrait) · [Christie's sale, 23 Sept 2026](https://www.christies.com/en/auction/graziella-pati-o-de-ortiz-linares-collection-evening-sale-24810-par/)
+- *Graziella Patiño*, 1931 study — [Catalogue Raisonné 6879](https://www.delaszlocatalogueraisonne.com/catalogue/the-catalogue/ortiz-linares-graziella-patio-de-nee-graziella-patio-rodriguez-6879)
+- *Lady Louis Mountbatten (Edwina Ashley)*, 1924 study — [Catalogue Raisonné 3520](https://www.delaszlocatalogueraisonne.com/catalogue/the-catalogue/mountbatten-lady-louis-nee-the-honourable-edwina-ashley-wife-of-1st-earl-mountbatten-of-burma-3520) · public domain at [Creazilla](https://creazilla.com/media/traditional-art/7088822/philip-de-laszlo---study-portrait-of-lady-louis-mountbatten)
+- *Helen Beatrice Myfanwy Hughes*, 1931 — [Catalogue Raisonné 5701](https://www.delaszlocatalogueraisonne.com/catalogue/the-catalogue/hughes-helen-beatrice-myfanwy-5701) · sold [Christie's lot 6062540](https://www.christies.com/en/lot/lot-6062540), estimate £15,000–25,000, realised £137,000
+- Public-domain basis: [Philip de László (1869–1937), Wikipedia](https://en.wikipedia.org/wiki/Philip_de_L%C3%A1szl%C3%B3)
+- *Mrs. Ortiz de Linares* (Dalí), 1942 — [Fundació Gala-Salvador Dalí, catalogue P 569](https://catalogues.salvador-dali.org/catalogues/en/heritageobject/968/) · [Sotheby's London 2013, lot 68](https://www.sothebys.com/en/auctions/ecatalogue/2013/impressionist-modern-art-evening-sale-l13006/lot.68.html) (letter source)
