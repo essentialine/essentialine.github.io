@@ -1,7 +1,7 @@
 ---
 title: Atelier
 layout: page
-permalink: /prints/
+permalink: /atelier/
 ---
 
 <!-- DRAFT — placeholder, Neal to rewrite in his own voice -->
@@ -22,6 +22,8 @@ I have an atelier where certain originals are available — not shown here, not 
 [Get in touch](mailto:neal@essentialine.art) if you're interested.
 
 Commissions are personal.
+Portraits from life, preferably — or from photograph.
+I'm interested in exploring murals.
 The drawing is already about the space it will live in — I use whitespace as medium.
 Your space, what it holds, the artists and ideas on this blog:
 that's where it starts.
