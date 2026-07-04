@@ -2,7 +2,7 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title: EssentiaLine
 author: Neal C
-description: Drawing and seeing
+description: Drawing, tracing, seeing
 page_excerpts: true
 search_full_content: true
 category_archive_path: "/categories/#"
