@@ -10,15 +10,15 @@ tags:
   - "portrait"
 ---
 
+![Tracing beside Tonnis's Female Warrior #14 "Extinction," 1981](/assets/images/tonnis-female-warrior-extinction/diptych-extinction14.png)
+*Left: my tracing. Right: Christiaan Tonnis, [Female Warrior #14 "Extinction"](https://commons.wikimedia.org/wiki/File:Female_Warrior_-14_%22Extinction%22.jpg), pencil and colored pencil on paper, 1981 — CC BY-SA 2.0, via Wikimedia Commons.*
+
 Two tracings so far from Christiaan Tonnis's *Female Warrior* series — different
 pieces, different years, both pulling at something different in the line.
 
 <small>[Extinction](#extinction) · [Cutting Edge of Will](#cutting-edge-of-will)</small>
 
 <a id="extinction"></a>
-![Tracing beside Tonnis's Female Warrior #14 "Extinction," 1981](/assets/images/tonnis-female-warrior-extinction/diptych-extinction14.png)
-*Left: my tracing. Right: Christiaan Tonnis, [Female Warrior #14 "Extinction"](https://commons.wikimedia.org/wiki/File:Female_Warrior_-14_%22Extinction%22.jpg), pencil and colored pencil on paper, 1981 — CC BY-SA 2.0, via Wikimedia Commons.*
-
 This is Female Warrior #14, "Extinction," by Tonnis. I think he actually may
 have put it into Creative Commons — Wikimedia says as much about the image.
 It's an incredible piece, genuinely one of my favorites.
