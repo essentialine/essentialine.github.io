@@ -8,5 +8,10 @@ search_full_content: true
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 url: https://essentialine.art
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
 sass:
   style: compressed
