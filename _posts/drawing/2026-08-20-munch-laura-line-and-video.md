@@ -54,6 +54,7 @@ Her eyes are actually open here, not closed — there are just no pupils. That m
 **Image credits.** Edvard Munch died in 1944 — public domain (life + 70 and beyond). The photograph is a faithful flat reproduction of a public-domain 2-D artwork and carries no separate copyright of its own (US: *Bridgeman Art Library v. Corel*, 1999; EU: Copyright Directive 2019, Art. 14).
 
 **Links**
+- [Watch the three-quarter process video on YouTube](https://youtu.be/Xtz4JNa6_pg)
 - [Laura Munch (MM.M.01045, three-quarter) — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Laura_Munch_-_MM.M.01045_-_Munch_Museum.jpg)
   — full painting, license
 - [Laura Munch (straight view) — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Laura_Munch.jpg)
