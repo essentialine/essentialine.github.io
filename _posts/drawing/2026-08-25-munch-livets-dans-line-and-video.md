@@ -89,7 +89,5 @@ The notebook page quoted above (MM T 2800, p. 15) is worth pausing on for what c
 - [Edvard Munch — Wikipedia](https://en.wikipedia.org/wiki/Edvard_Munch)
 - [MM T 2800 — eMunch.no, facsimile + translation side by side](https://emunch.no/TRANS_HYBRIDMM_T2800.xhtml)
   — Munch's own 1908 notebook in full, handwritten pages alongside the English translation by Francesca M. Nichols. Photos: Halvor Bjørngård, © Munch Museum, Oslo
-- [Process video — tracing the woman in black](https://youtu.be/Da5hp8Ujz0E)
-  — YouTube (unlisted until this post is published)
-- [Process video — tracing the central couple](https://youtu.be/fOlLEdc5epU)
-  — YouTube (unlisted until this post is published)
+- [Process video — tracing the woman in black](https://youtu.be/Da5hp8Ujz0E) — YouTube
+- [Process video — tracing the central couple](https://youtu.be/fOlLEdc5epU) — YouTube
