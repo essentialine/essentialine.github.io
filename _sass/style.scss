@@ -1,6 +1,6 @@
 /* Make all images responsive and centered */
 img {
-  max-width: 50%; /* Limit image size to 80% of the container width */
+  max-width: 75%; /* Limit image size to 75% of the container width */
   height: auto;   /* Maintain aspect ratio */
   display: block; /* Ensure images don't align inline with text */
   margin: 1.5rem auto; /* Add space and center-align images */
@@ -11,7 +11,7 @@ img {
 img[src$=".png"] {
   border-radius: 8px; /* Add rounded corners */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-  max-width: 50%;   /* Limit PNG size to 80% of container */
+  max-width: 75%;   /* Limit PNG size to 75% of container */
   margin-bottom: 2rem; /* Add space after images */
 }
 
@@ -29,5 +29,11 @@ img[src$=".png"] {
   max-width: 800px;      /* Limit content width for readability */
   margin: 0 auto;        /* Center content */
   padding: 0 15px;       /* Optional: padding to avoid text touching edges */
+}
+
+/* More breathing room between posts on the homepage/archive listing
+   (theme default is 2rem) */
+.entries-list .entry {
+  margin-bottom: 4rem;
 }
 
