@@ -1,0 +1,11 @@
+{
+  "out": "assets/images/davinci-leda/diptych-leda-1.png",
+  "left": {
+    "src": "/home/sun/skc/art/visualart/scans/260715.tracing/260806.8.davinci.leda.study.png",
+    "crop": "3050x3980+140+50"
+  },
+  "right": {
+    "src": "assets/images/davinci-leda/leda-rcin912516.jpg",
+    "crop": "1330x1160+485+105"
+  }
+}
