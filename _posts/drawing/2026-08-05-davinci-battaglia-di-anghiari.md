@@ -9,8 +9,8 @@ tags:
   - "line"
 ---
 
-![My tracing beside Leonardo's studies of horsemen for the Battle of Anghiari](/assets/images/davinci-battaglia-di-anghiari/diptych-anghiari.png)
-*Left: my tracing. Right: Leonardo da Vinci, [Studies of battles on horseback](https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci,_Study_of_battles_on_horseback.jpg), preparatory studies for the *Battaglia di Anghiari*, c. 1503–04, pen and ink, Galleria degli Uffizi, Florence — public domain.*
+![My tracing beside Leonardo's studies of horsemen for the Battaglia di Anghiari](/assets/images/davinci-battaglia-di-anghiari/diptych-anghiari.png)
+*Left: my tracing. Right: Leonardo da Vinci, [Studies of battles on horseback](https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci,_Study_of_battles_on_horseback.jpg), preparatory studies for the *Battaglia di Anghiari*, c. 1503–04, pen and ink, Galleria degli Uffizi, Firenze — public domain.*
 
 In contrast to yesterday's hatched head,
 this is Leonardo's battaglia,
@@ -75,8 +75,8 @@ a "tangle of men and animals," the faces contorted
 (Leonardo was deep in physiognomy in these years).
 
 Commissioned in 1503 for the great council hall of the Palazzo Vecchio
-in Florence — today the Salone dei Cinquecento —
-to commemorate Florence's 1440 victory over Milan.
+in Firenze (Florence) — today the Salone dei Cinquecento —
+to commemorate Firenze's 1440 victory over Milano (Milan).
 Leonardo left it unfinished, and Vasari's frescoes later covered the wall.
 A 2019 study (Barsanti, Belli, Ferretti and Frosinini;
 Olschki, presented at the Uffizi) argues he never painted it at all:
