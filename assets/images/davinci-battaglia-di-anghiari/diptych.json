@@ -1,0 +1,11 @@
+{
+  "out": "assets/images/davinci-battaglia-di-anghiari/diptych-anghiari.png",
+  "left": {
+    "src": "/home/sun/skc/art/visualart/scans/260715.tracing/260804.5.battaglia.anghiari.leonardo.png",
+    "crop": "3450x4750+3560+90"
+  },
+  "right": {
+    "src": "assets/images/davinci-battaglia-di-anghiari/anghiari-horsemen-study.jpg",
+    "crop": "690x1012+7+6"
+  }
+}
