@@ -4,12 +4,17 @@ _site/
 Gemfile.lock
 _drafts/
 _process/
+_blocked-holding/
 
-# machine-local Claude context — never publish
+# Syncthing-local Claude context — never publish
 CLAUDE.md
+INFLUENCES.md
 
 # gThumb metadata directories — never publish
 **/.comments/
 
 # local symlinks to scan working dirs — never publish
 *.blick.tracing
+
+# diptych.py build intermediates
+.diptych-work/

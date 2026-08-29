@@ -1,0 +1,14 @@
+{
+  "out": "assets/images/davinci-testa-fanciulla/diptych-testa-fanciulla.png",
+  "left": {
+    "src": "/home/sun/skc/art/visualart/scans/260715.tracing/260804.5.battaglia.anghiari.leonardo.png",
+    "crop": "3050x4900+110+120",
+    "whiteout": [
+      "3050,0,60,4900"
+    ]
+  },
+  "right": {
+    "src": "assets/images/davinci-testa-fanciulla/testa-fanciulla-turin-15572.jpg",
+    "crop": "2300x2900+470+120"
+  }
+}
