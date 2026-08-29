@@ -8,10 +8,12 @@ entries_layout: list
 <!-- DRAFT hero copy — Neal to rewrite in his own voice before pushing.
      Kept to two sentences on purpose; the aesthetic is whitespace as medium. -->
 
-Tracings of paintings and drawings I study — de László, Sargent, Munch,
-Leonardo, Schiele among them — reduced toward the line that carries the form.
-Each post is a drawing, its source beside it, and what the hour taught;
-a process video where there is one.
+Tracings of paintings and drawings I study — de László,
+Sargent, Munch, Leonardo, Schiele among them —
+reduced toward the line that carries the form.
+Each post is a drawing, its source beside it,
+and what the hour taught; a process video
+where there is one.
 
 <small>[About the practice](/about/) · [Atelier &amp; commissions](/atelier/)</small>
 
