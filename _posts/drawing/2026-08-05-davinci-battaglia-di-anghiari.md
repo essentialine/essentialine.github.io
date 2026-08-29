@@ -10,7 +10,7 @@ tags:
 ---
 
 ![My tracing beside Leonardo's studies of horsemen for the Battaglia di Anghiari](/assets/images/davinci-battaglia-di-anghiari/diptych-anghiari.png)
-*Left: my tracing. Right: Leonardo da Vinci, [Studies of battles on horseback](https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci,_Study_of_battles_on_horseback.jpg), preparatory studies for the *Battaglia di Anghiari*, c. 1503–04, pen and ink, Galleria degli Uffizi, Firenze — public domain.*
+*Left: my tracing. Right: Leonardo da Vinci, [Studi di battaglie a cavallo](https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci,_Study_of_battles_on_horseback.jpg) (studies of battles on horseback), preparatory studies for the Battaglia di Anghiari, c. 1503–04, pen and ink, Galleria degli Uffizi, Firenze — public domain.*
 
 In contrast to yesterday's hatched head,
 this is Leonardo's battaglia,
