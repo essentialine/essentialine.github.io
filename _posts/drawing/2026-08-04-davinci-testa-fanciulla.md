@@ -12,7 +12,7 @@ tags:
 ---
 
 ![My tracing beside Leonardo's Testa di fanciulla](/assets/images/davinci-testa-fanciulla/diptych-testa-fanciulla.png)
-*Left: my tracing. Right: Leonardo da Vinci, [Testa di fanciulla](https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci,_Head_of_a_girl_01.jpg) (Head of a Young Woman), c. 1483–85, silverpoint heightened with white on prepared paper, 18.1 × 15.9 cm, Biblioteca Reale, Turin (inv. 15572 recto) — public domain.*
+*Left: my tracing. Right: Leonardo da Vinci, [Testa di fanciulla](https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci,_Head_of_a_girl_01.jpg) (Head of a Young Woman), c. 1483–85, silverpoint heightened with white on prepared paper, 18.1 × 15.9 cm, Biblioteca Reale, Torino (inv. 15572 recto) — public domain.*
 
 <iframe
   src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/0af8afac655ca9e44e5e07cb3ef2df34/iframe"
@@ -93,7 +93,7 @@ He had a direction and an understanding in his mind of what he was doing.
 the "Head of a Young Woman" —
 is a small silverpoint drawing,
 heightened with white on pale-buff prepared paper,
-in the Biblioteca Reale in Turin (Musei Reali di Torino),
+in the Biblioteca Reale, Torino (Turin),
 inv. 15572 recto.
 It is a study for the head of the angel in the *Vergine delle Rocce* (*Virgin of the Rocks*),
 the Louvre version, and is usually dated to around 1483–85.
