@@ -1,0 +1,11 @@
+{
+  "out": "assets/images/davinci-leda/diptych-leda-3.png",
+  "left": {
+    "src": "/home/sun/skc/art/visualart/scans/260715.tracing/260809.10.davinci.leda.yarnwinder.png",
+    "crop": "2800x4050+380+140"
+  },
+  "right": {
+    "src": "assets/images/davinci-leda/leda-rcin912516.jpg",
+    "crop": "1330x1160+485+105"
+  }
+}
