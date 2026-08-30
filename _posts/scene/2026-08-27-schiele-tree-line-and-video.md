@@ -19,7 +19,7 @@ Darmstadt — public domain.*
 
 <iframe
   src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/3ec98b626d5d76426f8c96a4149ee721/iframe"
-  style="border: none; width: 100%; aspect-ratio: 1/1;"
+  style="border: none; display: block; width: 100%; max-width: 300px; margin: 1.5rem auto; aspect-ratio: 1/1;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
 </iframe>
