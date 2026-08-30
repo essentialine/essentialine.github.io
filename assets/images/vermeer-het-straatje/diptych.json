@@ -1,0 +1,11 @@
+{
+  "out": "assets/images/vermeer-het-straatje/diptych-vermeer-het-straatje.png",
+  "left": {
+    "src": "/home/sun/skc/art/visualart/scans/260715.tracing/260825tu.vermeer.ltl.strt..28fr.ingres.caroline.riviere.png",
+    "crop": "3620x4650+70+210"
+  },
+  "right": {
+    "src": "assets/images/vermeer-het-straatje/vermeer-het-straatje-rijksmuseum.jpg",
+    "crop": "1880x2340+30+35"
+  }
+}
