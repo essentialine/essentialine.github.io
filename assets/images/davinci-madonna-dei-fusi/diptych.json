@@ -1,0 +1,11 @@
+{
+  "out": "assets/images/davinci-madonna-dei-fusi/diptych-madonna-dei-fusi.png",
+  "left": {
+    "src": "/home/sun/skc/art/visualart/scans/260715.tracing/260809.10.davinci.leda.yarnwinder.png",
+    "crop": "2600x3800+3600+1120"
+  },
+  "right": {
+    "src": "assets/images/davinci-madonna-dei-fusi/madonna-yarnwinder-study.jpg",
+    "crop": "790x990+8+8"
+  }
+}
