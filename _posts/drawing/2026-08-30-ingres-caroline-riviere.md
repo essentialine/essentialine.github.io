@@ -83,6 +83,10 @@ But really, for me, the problem is my tracing:
 it seems to have lost something.
 I don't see her elegance in it, that *Las Meninas* quality.
 I think I got caught technically.
+For example, I think here her pupils are so emphatic
+that it's not possible to just trace only the top eyelid
+line that we see — so perhaps pupils would have helped.
+
 That's something to revisit one day.
 
 <img src="/assets/images/ingres-caroline-riviere/velazquez-las-meninas-infanta.jpg" alt="The Infanta Margarita Teresa, centre of Velázquez's Las Meninas" style="display: block; width: 100%; max-width: 300px; margin: 1.5rem auto;">
@@ -111,9 +115,10 @@ The Rivière family kept it for sixty-four years —
 through the decades when Ingres's early portraits were dismissed —
 and in 1870 Caroline's sister-in-law left it to the Louvre
 (the *MI* in *MI 1447* marks a Second-Empire acquisition).
-When a lesser Ingres portrait surfaces at auction it tops out
-around $2.7 million — the *Comtesse de La Rue*, Christie's Paris, 2009 —
-and the great ones are all in museums.
+The best price an Ingres portrait has ever fetched at auction
+is about $2.7 million — *Portrait de la comtesse de La Rue*,
+in the Yves Saint Laurent and Pierre Bergé sale at
+Christie's Paris, February 2009 — and the great ones are all in museums.
 
 ---
 
@@ -123,3 +128,4 @@ and the great ones are all in museums.
 - [Mademoiselle Caroline Rivière — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mademoiselle_Caroline_Rivi%C3%A8re_-_Jean-Auguste-Dominique_Ingres_-_Mus%C3%A9e_du_Louvre_Peintures_MI_1447.jpg) — PD reproduction
 - [Las Meninas — Museo Nacional del Prado](https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f)
 - [Winged Victory of Samothrace — Cosmo Wenman's 3D scan](https://cosmowenman.com/2013/12/28/winged-victory-published-update-12282013/)
+- [Portrait de la comtesse de La Rue — Christie's](https://www.christies.com/lot/lot-jean-auguste-dominique-ingres-portrait-de-la-comtesse-de-5157396/) — Ingres's auction record, ~€2.08m / $2.7m, Yves Saint Laurent & Pierre Bergé sale, February 2009
