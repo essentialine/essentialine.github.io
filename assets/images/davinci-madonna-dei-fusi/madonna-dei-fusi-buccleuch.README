@@ -1,0 +1,14 @@
+madonna-dei-fusi-buccleuch-head.jpg  <- the image shown in the post
+
+Crop of the finished painting to the Virgin's head and shoulders —
+framed on the head/bust (the post's subject, the head study) and keeping
+the nude Christ Child's figure out of frame per the site's front-door
+policy. The full painting is deliberately NOT kept in this repo for the
+same reason; rebuild the crop from the Wikimedia Commons PD-Art source:
+
+  File:Leonardo da Vinci - Madonna of the Yarnwinder, Buccleuch version.jpg
+  https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Madonna_of_the_Yarnwinder,_Buccleuch_version.jpg
+  (5826x7774, Public domain / PD-Art)
+
+  magick <downloaded>.jpg -resize x1600 -crop 720x900+165+70 +repage \
+    -quality 88 madonna-dei-fusi-buccleuch-head.jpg
