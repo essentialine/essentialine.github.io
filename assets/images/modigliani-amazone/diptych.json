@@ -1,0 +1,10 @@
+{
+  "out": "assets/images/modigliani-amazone/diptych-modigliani-amazone.png",
+  "left": {
+    "src": "/home/sun/skc/art/visualart/scans/260715.tracing/260823mo.modig.amzn.stdy.kndl140.png",
+    "crop": "3350x3620+330+2020"
+  },
+  "right": {
+    "src": "assets/images/modigliani-amazone/modigliani-amazone-study.jpg"
+  }
+}
