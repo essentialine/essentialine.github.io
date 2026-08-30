@@ -1,0 +1,11 @@
+{
+  "out": "assets/images/ingres-caroline-riviere/diptych-ingres-caroline-riviere.png",
+  "left": {
+    "src": "/home/sun/skc/art/visualart/scans/260715.tracing/260825tu.vermeer.ltl.strt..28fr.ingres.caroline.riviere.png",
+    "crop": "2400x4400+3720+160"
+  },
+  "right": {
+    "src": "assets/images/ingres-caroline-riviere/ingres-caroline-riviere-louvre.jpg",
+    "crop": "1380x2020+75+120"
+  }
+}
