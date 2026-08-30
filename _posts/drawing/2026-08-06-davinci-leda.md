@@ -16,7 +16,7 @@ tags:
 
 <iframe
   src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/8017242b4f21886015e0dfc2786d6d62/iframe"
-  style="border: none; display: block; width: 100%; max-width: 340px; margin: 1.5rem auto; aspect-ratio: 9/16;"
+  style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
 </iframe>
@@ -55,7 +55,7 @@ I tried to follow it, but I feel there's more to do.
 
 <iframe
   src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/3f5a76887499b7ee2bde6265ffd67aa8/iframe"
-  style="border: none; display: block; width: 100%; max-width: 340px; margin: 1.5rem auto; aspect-ratio: 9/16;"
+  style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
 </iframe>
@@ -74,7 +74,7 @@ I think this one was somewhat better, though too busy.
 
 <iframe
   src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/377b03ddfdb3cd72b5f0e1b77beaab50/iframe"
-  style="border: none; display: block; width: 100%; max-width: 340px; margin: 1.5rem auto; aspect-ratio: 9/16;"
+  style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
 </iframe>

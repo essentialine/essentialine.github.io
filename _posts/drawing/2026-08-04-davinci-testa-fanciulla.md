@@ -16,7 +16,7 @@ tags:
 
 <iframe
   src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/0af8afac655ca9e44e5e07cb3ef2df34/iframe"
-  style="border: none; display: block; width: 100%; max-width: 340px; margin: 1.5rem auto; aspect-ratio: 9/16;"
+  style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
 </iframe>

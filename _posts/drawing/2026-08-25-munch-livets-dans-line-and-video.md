@@ -44,7 +44,7 @@ Then color: green, perhaps because of Lautrec. Softened with the water brush, bl
 
 <iframe
   src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/58b2b15d5d9c83bf58b2b7b61d067dbf/iframe"
-  style="border: none; display: block; width: 100%; max-width: 340px; margin: 1.5rem auto; aspect-ratio: 9/16;"
+  style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
 </iframe>

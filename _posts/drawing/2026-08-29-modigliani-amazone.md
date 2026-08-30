@@ -16,7 +16,7 @@ tags:
 
 <iframe
   src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/95a2f0dc97e72789bb93283d547b6a6e/iframe"
-  style="border: none; display: block; width: 100%; max-width: 420px; margin: 1.5rem auto; aspect-ratio: 1/1;"
+  style="border: none; display: block; width: 100%; max-width: 300px; margin: 1.5rem auto; aspect-ratio: 1/1;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
 </iframe>
@@ -57,7 +57,7 @@ it's something to do with the higher-level abstraction of her expression.
 There's all that shading in the original, of course,
 but I don't think I'll put it in.
 
-<img src="/assets/images/modigliani-amazone/modigliani-amazone-painting.jpg" alt="Modigliani's finished L'Amazone" style="display: block; width: 100%; max-width: 340px; margin: 1.5rem auto;">
+<img src="/assets/images/modigliani-amazone/modigliani-amazone-painting.jpg" alt="Modigliani's finished L'Amazone" style="display: block; width: 100%; max-width: 280px; margin: 1.5rem auto;">
 
 *Amedeo Modigliani, [L'Amazone](https://commons.wikimedia.org/wiki/File:L%27Amazone.jpg) (The Amazon / Woman in a Yellow Jacket), 1909, oil on canvas, private collection — the painting these studies were for. Public domain.*
 
