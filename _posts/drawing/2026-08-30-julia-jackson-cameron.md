@@ -159,6 +159,8 @@ The profile has no comparable auction record.
 ---
 
 **Links**
+- [Process video — the frontal](https://youtu.be/EE6ZcYnvP8w) — YouTube
+- [Process video — the profile](https://youtu.be/OKFkFEajGWs) — YouTube
 - [Julia Jackson (frontal), 1996.99.2 — The Met](https://www.metmuseum.org/art/collection/search/267426) — Open Access
 - [Mrs. Herbert Duckworth (profile), 2005.100.26 — The Met](https://www.metmuseum.org/art/collection/search/283098) — Open Access
 - [Julia Jackson — Deutscher and Hackett](https://www.deutscherandhackett.com/auction/lot/julia-jackson-1867) — albumen print, A$122,727, Melbourne, May 2023
