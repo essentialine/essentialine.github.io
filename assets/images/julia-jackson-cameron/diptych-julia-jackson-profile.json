@@ -1,0 +1,11 @@
+{
+  "out": "assets/images/julia-jackson-cameron/diptych-julia-jackson-profile.png",
+  "left": {
+    "src": "/home/sun/skc/art/visualart/scans/260705su.bl1114drw.260716fr/260716fr.cam/darktable_exported/260716fr.cam.j.png",
+    "crop": "3850x5950+1750+1150"
+  },
+  "right": {
+    "src": "assets/images/julia-jackson-cameron/cameron-mrs-herbert-duckworth-met283098.jpg",
+    "crop": "1150x1780+420+210"
+  }
+}
