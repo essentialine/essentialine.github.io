@@ -1,0 +1,10 @@
+{
+  "out": "assets/images/caravaggio-sant-orsola/diptych-ursula-831.png",
+  "left": {
+    "src": "assets/images/caravaggio-sant-orsola/ursula-831-tracing.png"
+  },
+  "right": {
+    "src": "assets/images/caravaggio-sant-orsola/caravaggio-sant-orsola-zevallos.jpg",
+    "crop": "1430x1330+1085+450"
+  }
+}

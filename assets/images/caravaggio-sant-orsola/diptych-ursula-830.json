@@ -1,11 +1,11 @@
 {
-  "out": "assets/images/caravaggio-saint-ursula/diptych-ursula-830.png",
+  "out": "assets/images/caravaggio-sant-orsola/diptych-ursula-830.png",
   "left": {
     "src": "/home/sun/skc/art/visualart/scans/260715.tracing/260830.carav.ursula-4.png",
     "crop": "5100x6650+0+120"
   },
   "right": {
-    "src": "assets/images/caravaggio-saint-ursula/caravaggio-saint-ursula-zevallos.jpg",
+    "src": "assets/images/caravaggio-sant-orsola/caravaggio-sant-orsola-zevallos.jpg",
     "crop": "1430x1330+1085+450"
   }
 }
