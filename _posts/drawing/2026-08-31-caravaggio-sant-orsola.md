@@ -144,11 +144,18 @@ He dramatizes himself.
 
 <a id="background"></a>
 
-**Background.** *Il martirio di sant'Orsola* is [Caravaggio's last known painting](https://gallerieditalia.com/en/online-museums/masterpieces/martyrdom-of-saint-ursula-caravaggio/), from 1610, the year he died.
+**Background.** *Il martirio di sant'Orsola* is [Caravaggio's last known painting](https://gallerieditalia.com/en/online-museums/masterpieces/martyrdom-of-saint-ursula-caravaggio/), from 1610 — the year he died at
+Porto Ercole. It was bought as a *Mattia Preti* by the Banca Commerciale
+Italiana in 1972, and [only recognised as a Caravaggio in the 1980s](https://www.theartnewspaper.com/2024/04/03/secrets-of-caravaggios-last-masterpiece-revealed-in-new-london-show),
+after a letter surfaced in the Doria d'Angri archive in Napoli: the patron's
+agent, Lanfranco Massa, writing to Genova that the picture was finished but
+that he had botched an attempt to dry the fresh varnish in the sun. It is
+now Intesa Sanpaolo's, at the Gallerie d'Italia in Napoli.
+
 The scene: Orsola at the instant the tyrant she refused
 shoots an arrow into her breast; she looks down at the wound,
 and the men around her are still taking in what he has done.
-The open-mouthed figure just behind her is a self-portrait —
+The [open-mouthed figure just behind her](https://gallerieditalia.com/en/online-museums/masterpieces/martyrdom-of-saint-ursula-caravaggio/) is a self-portrait —
 Caravaggio in his own picture.
 
 **Chiaroscuro or tenebrism?** Chiaroscuro is the broad term —
@@ -169,5 +176,6 @@ the rest swallowed.
 - [Process video — Sunday 30 August](https://youtu.be/4qEOOztoRI8) — YouTube
 - [Il martirio di sant'Orsola — Gallerie d'Italia, Napoli](https://gallerieditalia.com/en/online-museums/masterpieces/martyrdom-of-saint-ursula-caravaggio/) — the owning museum (Intesa Sanpaolo)
 - [The painting on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Martyrdom_of_Saint_Ursula-Caravaggio_(1610).jpg) — the public-domain reproduction traced here
+- [Secrets of Caravaggio's last masterpiece — The Art Newspaper (2024)](https://www.theartnewspaper.com/2024/04/03/secrets-of-caravaggios-last-masterpiece-revealed-in-new-london-show) — the letter, the 1972 Preti purchase, the 1980s reattribution
 - [The Last Caravaggio — National Gallery, London](https://www.nationalgallery.org.uk/exhibitions/past/the-last-caravaggio) — the 2024 exhibition built around this picture
 - [Frédéric Forest](https://fredericforest.com/) — artist, *Art of the Line in Drawing*
