@@ -1,0 +1,18 @@
+<!-- start custom footer snippets -->
+
+<script>
+  // so-simple-theme's main.js adds data-lity="" to every <a> whose href ends
+  // .jpg/.png/.gif, wiring it to the lity lightbox. essentialine's only such
+  // links are figure-caption links to Wikimedia Commons *file pages*
+  // (…/wiki/File:….jpg) — not images — so the click gets hijacked into a black
+  // lightbox overlay that can't load the target. The diptychs are inline
+  // <img>, never links, so there are no real lightbox targets. Strip data-lity
+  // after the theme has run (lity binds by delegation, so this is enough).
+  window.addEventListener("load", function () {
+    document.querySelectorAll("a[data-lity]").forEach(function (a) {
+      a.removeAttribute("data-lity");
+    });
+  });
+</script>
+
+<!-- end custom footer snippets -->

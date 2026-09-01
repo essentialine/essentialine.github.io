@@ -12,7 +12,7 @@ tags:
 ---
 
 ![My 31 August tracing beside a detail of Caravaggio's Il martirio di sant'Orsola](/assets/images/caravaggio-sant-orsola/diptych-ursula-831.png)
-*Left: my tracing, Monday 31 August. Right: a detail of Michelangelo Merisi da Caravaggio, [Il martirio di sant'Orsola](https://commons.wikimedia.org/wiki/File:The_Martyrdom_of_Saint_Ursula-Caravaggio_(1610).jpg) (The Martyrdom of Saint Ursula), 1610, oil on canvas, 143 × 180 cm, Gallerie d'Italia – Palazzo Zevallos Stigliano, Napoli — public domain.*
+*Left: my tracing, Monday 31 August. Right: a detail of Michelangelo Merisi da Caravaggio, [Il martirio di sant'Orsola](https://commons.wikimedia.org/wiki/File:The_Martyrdom_of_Saint_Ursula-Caravaggio_(1610).jpg) (The Martyrdom of Saint Ursula), 1610, oil on canvas, Gallerie d'Italia, Napoli — public domain.*
 
 <small>[31 August](#aug31) · [30 August](#aug30) · [Background](#background)</small>
 
@@ -144,33 +144,12 @@ He dramatizes himself.
 
 <a id="background"></a>
 
-**Background.** *Il martirio di sant'Orsola* is **Caravaggio's last known
-painting** — made in Napoli in the spring of 1610, about a month before his
-death, for prince Marcantonio Doria, whose family had sant'Orsola as its
-patron saint. On **1 May 1610** Doria's agent in Napoli, Lanfranco Massa,
-[wrote to Genova](https://gallerieditalia.com/en/online-museums/masterpieces/martyrdom-of-saint-ursula-caravaggio/): he had meant to ship the picture that week, but had set it
-in the sun to dry and the varnish had only thickened — "I want to go to
-Caravaggio again to get his opinion on what to do so that it does not spoil."
-It reached Genova on 18 June. Caravaggio was dead by mid-July, at Porto Ercole.
-
-The canvas passed down the Doria line, back to Napoli in the nineteenth
-century, and was bought by the Banca Commerciale Italiana in 1972 **as a
-Mattia Preti**. Its real authorship was settled only in **1980**, when
-Massa's letter surfaced in the archivio Doria d'Angri and matched the picture
-to the documented commission (the archival find is credited to Vincenzo
-Pacelli). A 2003–04 restoration recovered passages the centuries had painted
-over — among them the outstretched hand of a figure trying, too late, to stop
-the arrow. It is now Intesa Sanpaolo's, at the Gallerie d'Italia in Napoli;
-bank-owned, it has never come to the market.
-
-The scene, compressed to a few feet of space:
-the Hun king — Attila, in the legend —
-who has just loosed an arrow into Orsola at point-blank range after she refused him,
-his grip already loosening on the bow in regret;
-Orsola looking down at the wound in her breast;
-and behind her, open-mouthed,
-a man with Caravaggio's face — the painter in his own picture,
-as if he takes the wound with her.
+**Background.** *Il martirio di sant'Orsola* is [Caravaggio's last known painting](https://gallerieditalia.com/en/online-museums/masterpieces/martyrdom-of-saint-ursula-caravaggio/), from 1610, the year he died.
+The scene: Orsola at the instant the tyrant she refused
+shoots an arrow into her breast; she looks down at the wound,
+and the men around her are still taking in what he has done.
+The open-mouthed figure just behind her is a self-portrait —
+Caravaggio in his own picture.
 
 **Chiaroscuro or tenebrism?** Chiaroscuro is the broad term —
 form modelled in gradations of light and shade,
@@ -188,7 +167,7 @@ the rest swallowed.
 **Links**
 - [Process video — Monday 31 August](https://youtu.be/MBKiI7U3IlY) — YouTube
 - [Process video — Sunday 30 August](https://youtu.be/4qEOOztoRI8) — YouTube
-- [Il martirio di sant'Orsola — Gallerie d'Italia, Napoli](https://gallerieditalia.com/en/online-museums/masterpieces/martyrdom-of-saint-ursula-caravaggio/) — the owning museum (Intesa Sanpaolo): source for the Massa letter, the Mattia Preti attribution and 1972 purchase, the 1980 reattribution, and the 2003–04 restoration
+- [Il martirio di sant'Orsola — Gallerie d'Italia, Napoli](https://gallerieditalia.com/en/online-museums/masterpieces/martyrdom-of-saint-ursula-caravaggio/) — the owning museum (Intesa Sanpaolo)
 - [The painting on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Martyrdom_of_Saint_Ursula-Caravaggio_(1610).jpg) — the public-domain reproduction traced here
 - [The Last Caravaggio — National Gallery, London](https://www.nationalgallery.org.uk/exhibitions/past/the-last-caravaggio) — the 2024 exhibition built around this picture
 - [Frédéric Forest](https://fredericforest.com/) — artist, *Art of the Line in Drawing*
