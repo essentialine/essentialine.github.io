@@ -1,0 +1,9 @@
+{
+  "out": "assets/images/klimt-brustbild-line/diptych-klimt-brustbild.png",
+  "left": {
+    "src": "assets/images/klimt-brustbild-line/klimt-brustbild-tracing.png"
+  },
+  "right": {
+    "src": "assets/images/klimt-brustbild-line/klimt-brustbild-facing-left.jpg"
+  }
+}
