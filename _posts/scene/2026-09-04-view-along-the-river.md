@@ -14,8 +14,8 @@ tags:
 
 ![My drawing beside an 1875 photograph, "View along the river"](/assets/images/view-along-the-river/diptych-view-along-the-river.png)
 *Left: my drawing from reference, Tuesday 4 August.
-Right: "View along the river," unknown artist, 1875–1878,
-albumen print — Museum of Photographic Arts,
+Right: ["View along the river,"](https://www.flickr.com/photos/mopa1/8136380925/)
+unknown artist, 1875–1878, albumen print — Museum of Photographic Arts,
 San Diego (Catherine and Ralph Benkaim Collection,
 2006.045.007) — public domain.*
 
