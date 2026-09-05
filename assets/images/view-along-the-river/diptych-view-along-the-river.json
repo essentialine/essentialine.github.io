@@ -1,0 +1,9 @@
+{
+  "out": "assets/images/view-along-the-river/diptych-view-along-the-river.png",
+  "left": {
+    "src": "assets/images/view-along-the-river/view-along-the-river-drawing.png"
+  },
+  "right": {
+    "src": "assets/images/view-along-the-river/view-along-the-river-1875.jpg"
+  }
+}
