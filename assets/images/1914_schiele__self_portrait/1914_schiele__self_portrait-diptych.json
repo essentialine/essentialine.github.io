@@ -1,0 +1,5 @@
+{
+  "out": "assets/images/1914_schiele__self_portrait/1914_schiele__self_portrait-diptych.png",
+  "left":  { "src": "assets/images/1914_schiele__self_portrait/1914_schiele__self_portrait-tracing.png" },
+  "right": { "src": "assets/images/1914_schiele__self_portrait/1914_schiele__self_portrait-head.jpg" }
+}
