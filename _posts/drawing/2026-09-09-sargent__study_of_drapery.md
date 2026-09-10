@@ -56,7 +56,7 @@ is using the shade to pull the folds out.
 As I traced, it got more obvious that line alone
 would miss much of what he had depicted,
 and I had a way to capture the depth of the folds —
-following Erin Mead's *Quick Pose*, but simpler.
+following the ideas in [Erin Meads's](https://www.erinmeads.com/) *The Quick Pose*, but simpler.
 So I'm trying that more directly, to see what it does.
 That seems to have been his idea.
 This long line on the left is nice;
@@ -145,4 +145,5 @@ its Philadelphia accession number, 1931-14-5, dates the gift to 1931.
 - [Study for the Frieze of the Prophets (recto and verso) — Harvard Art Museums](https://harvardartmuseums.org/collections/object/198600) — a comparable sheet, with drapery studies worked on the verso
 - [*Robe of the Prophet Hosea* — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Robe_of_the_prophet_Hosea_by_John_Singer_Sargent,_study_for_Triumph_of_Religion_mural_in_the_Boston_Public_Library,_installed_1895,_oil_on_canvas_-_Fitchburg_Art_Museum_-_DSC08873_(warped_and_cropped).JPG) — the oil study at the Fitchburg Art Museum
 - [The John Singer Sargent Archive — Museum of Fine Arts, Boston](https://www.mfa.org/collections/americas/the-john-singer-sargent-archive) — on the studio contents and their distribution by the artist's sisters
+- [Erin Meads](https://www.erinmeads.com/) — her book *The Quick Pose: A Compilation of Gestures and Thoughts on Figure Drawing*; I borrowed her way of filling in the depressions along a form's waves, and used it on the folds here
 - [Process video — Tuesday 8 September](https://youtu.be/Qc_KUP7JVbE) — YouTube
