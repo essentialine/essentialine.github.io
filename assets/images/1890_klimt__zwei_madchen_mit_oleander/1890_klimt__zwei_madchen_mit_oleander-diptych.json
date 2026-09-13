@@ -1,0 +1,5 @@
+{
+  "out":   "assets/images/1890_klimt__zwei_madchen_mit_oleander/1890_klimt__zwei_madchen_mit_oleander-diptych.png",
+  "left":  { "src": "assets/images/1890_klimt__zwei_madchen_mit_oleander/1890_klimt__zwei_madchen_mit_oleander-tracing.png" },
+  "right": { "src": "assets/images/1890_klimt__zwei_madchen_mit_oleander/1890_klimt__zwei_madchen_mit_oleander-master.jpg", "crop": "4235x2215+185+50" }
+}
