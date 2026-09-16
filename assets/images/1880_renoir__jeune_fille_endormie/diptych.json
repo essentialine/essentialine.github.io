@@ -1,0 +1,14 @@
+{
+  "out": "assets/images/1880_renoir__jeune_fille_endormie/1880_renoir__jeune_fille_endormie-diptych.png",
+  "height": 1400,
+  "gutter": 28,
+  "left": {
+    "src": "_process/_video-inbox/matched/IMG_20260914_072105.jpg",
+    "crop": "2754x4032+270+0",
+    "whiteout": ["0,0,950,750", "0,1550,330,2482"]
+  },
+  "right": {
+    "src": "assets/images/1880_renoir__jeune_fille_endormie/1880_renoir__jeune_fille_endormie-master.jpg",
+    "crop": "1180x1550+25+25"
+  }
+}
