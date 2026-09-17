@@ -1,0 +1,12 @@
+{
+  "out": "assets/images/1892_gauguin__crouching_tahitian_woman/1892_gauguin__crouching_tahitian_woman-diptych.png",
+  "height": 1400,
+  "gutter": 28,
+  "left": {
+    "src": "_process/_video-inbox/matched/IMG_20260916_062833.jpg",
+    "crop": "3024x3700+0+0"
+  },
+  "right": {
+    "src": "assets/images/1892_gauguin__crouching_tahitian_woman/1892_gauguin__crouching_tahitian_woman-master.jpg"
+  }
+}
