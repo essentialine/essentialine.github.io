@@ -4,8 +4,6 @@ layout: page
 permalink: /atelier/
 ---
 
-<!-- DRAFT — placeholder, Neal to rewrite in his own voice -->
-
 Faces. What's underneath a face — where the structure is, where the line has to go to find it.
 
 Schiele does it in almost no marks at all. Lautrec the same. Rodin's late drawings barely touch the page and still get the whole figure.
@@ -32,3 +30,17 @@ that's where it starts.
 I scan and post-process my drawings so that anyone who wants to live with the work can.
 Not everyone can get an original, and I enjoy the scanning and processing work anyway.
 Prints on [Etsy](https://www.etsy.com/shop/essentialine) and [Redbubble](https://www.redbubble.com/people/essentialink/shop).
+
+---
+
+A quick look through my sketchbooks,
+set to Marie-Flore's *St. Pol del Mar* — a fan tribute.
+
+<iframe
+  src="https://www.youtube.com/embed/bHre5VfJP4k"
+  title="Marie-Flore – St. Pol del Mar | a sketchbook fan tribute"
+  style="border: none; display: block; width: 100%; max-width: 300px; margin: 1.5rem auto; aspect-ratio: 1/1;"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen="true">
+</iframe>
