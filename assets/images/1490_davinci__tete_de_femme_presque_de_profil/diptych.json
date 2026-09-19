@@ -1,0 +1,11 @@
+{
+  "out": "assets/images/1490_davinci__tete_de_femme_presque_de_profil/1490_davinci__tete_de_femme_presque_de_profil-diptych.png",
+  "height": 1400,
+  "gutter": 28,
+  "left": {
+    "src": "_process/_video-inbox/matched/IMG_20260917_064721.jpg"
+  },
+  "right": {
+    "src": "assets/images/1490_davinci__tete_de_femme_presque_de_profil/1490_davinci__tete_de_femme_presque_de_profil-master.jpg"
+  }
+}
