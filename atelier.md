@@ -44,3 +44,14 @@ set to Marie-Flore's *St. Pol del Mar* — a fan tribute.
   referrerpolicy="strict-origin-when-cross-origin"
   allowfullscreen="true">
 </iframe>
+
+Another, set to Marie-Flore's *Tutto passa* — a fan tribute.
+
+<iframe
+  src="https://www.youtube.com/embed/-iuBv17RYxE"
+  title="Marie-Flore – Tutto passa | a sketchbook fan tribute"
+  style="border: none; display: block; width: 100%; max-width: 300px; margin: 1.5rem auto; aspect-ratio: 1/1;"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen="true">
+</iframe>
