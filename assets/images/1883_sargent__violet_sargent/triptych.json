@@ -1,0 +1,10 @@
+{
+  "out": "assets/images/1883_sargent__violet_sargent/1883_sargent__violet_sargent-triptych.png",
+  "height": 1100,
+  "gutter": 28,
+  "panels": [
+    { "src": "assets/images/sargent-violet-line-and-graphite/sargent-violet-tracing.png" },
+    { "src": "assets/images/1883_sargent__violet_sargent/1883_sargent__violet_sargent-master.jpg", "crop": "800x1100+229+259" },
+    { "src": "assets/images/1883_sargent__violet_sargent/1883_sargent__violet_sargent-tracing-corrected.png" }
+  ]
+}

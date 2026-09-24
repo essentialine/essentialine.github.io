@@ -58,3 +58,4 @@ under its Open Access policy.
 - [Violet Sargent (watercolor) — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sargent_-_Violet_Sargent,_c._1883,_nr._73.jpg)
   — the companion piece discussed above, still in a private collection
 - [John Singer Sargent — Wikipedia](https://en.wikipedia.org/wiki/John_Singer_Sargent)
+- [Sargent's Violet, again, in line](/drawing/sargent__violet_sargent/) — a second tracing of this same drawing, September 2026
