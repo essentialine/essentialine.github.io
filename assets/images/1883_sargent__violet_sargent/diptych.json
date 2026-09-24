@@ -1,0 +1,12 @@
+{
+  "out": "assets/images/1883_sargent__violet_sargent/1883_sargent__violet_sargent-diptych.png",
+  "height": 1100,
+  "gutter": 28,
+  "left": {
+    "src": "assets/images/1883_sargent__violet_sargent/1883_sargent__violet_sargent-tracing-corrected.png"
+  },
+  "right": {
+    "src": "assets/images/1883_sargent__violet_sargent/1883_sargent__violet_sargent-master.jpg",
+    "crop": "800x1100+229+259"
+  }
+}
