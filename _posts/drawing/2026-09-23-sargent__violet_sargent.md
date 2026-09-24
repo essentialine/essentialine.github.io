@@ -41,29 +41,27 @@ This time I reversed the screen and picked up more lines,
 but I actually prefer my previous one —
 simpler and more fundamental.
 This one has some extraneous geometry
-that isn't about her expression and her eyes,
-which is what I find striking about it.
+that isn't about her expression and her eyes.
 
 Her iris is quite important to him,
-and I leave it off habitually —
+and I leave it off habitually.
 Perhaps I'm drawing masks rather than direct gazes.
 It's possible that for this one,
 the iris may be fundamental to going past my earlier tracing.
 
 Now, tracing the sides of her nose, to bring some more balance,
-the line to follow on the cheek,
-because I do think the sides of the nose was more than I expected.
+this is the line to follow on the cheek,
+because I do think the sides of the nose were more than I expected.
 So I need a corresponding level of dimensionality on the cheek.
 
-That cheek line is really the decision e.g.
-if we're not photographing — everything is a decision, every line.
+That cheek line is the decision that's always there
+whenever we're not photographing — everything is a decision, every line.
 The fineliners I use aren't the thinnest I have,
 I'm picking a line with a constant, discernible, non-minimal weight,
 and I choose where to spend it.
 
 For him, the collar was important to set off the neck,
-but secondary —
-which is the same point again:
+but it's secondary —
 value itself isn't primary, even when there are many values to work with.
 
 This one has a naturalness to it,
@@ -72,8 +70,8 @@ his decisions around the eyes, the expression, the face,
 control minute aspects of the depiction.
 And looking at both of mine,
 I do think the balance in my earlier tracing
-was closer to what I actually wanted to capture —
-this time I was led astray by seeing more values
+was closer to what I actually wanted to capture.
+This time I was led astray by seeing more values
 instead of exercising judgement.
 
 ---
