@@ -1,12 +1,14 @@
 #remote_theme: pages-themes/hacker@v0.2.0
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-title: EssentiaLine
+title: essentialine
 author: Neal C
 description: Drawing, tracing, seeing
 page_excerpts: true
 search_full_content: true
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
+read_time: true
+words_per_minute: 200
 url: https://essentialine.art
 plugins:
   - jekyll-feed
