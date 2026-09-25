@@ -19,7 +19,7 @@ or set advertising cookies.
 If you sign up for the mailing list,
 your email address is stored by [ConvertKit](https://kit.com/) (the newsletter service this site uses)
 and is used only to send occasional posts
-and updates from EssentiaLine.
+and updates from essentialine.
 It is never sold or shared.
 Every email includes an unsubscribe link;
 you can also write to [neal@essentialine.art](mailto:neal@essentialine.art) to be removed,
@@ -40,9 +40,9 @@ Playing an embedded video loads content from those services,
 which have their own privacy policies ([Cloudflare](https://www.cloudflare.com/privacypolicy/),
 [YouTube / Google](https://policies.google.com/privacy)).
 
-## The EssentiaLine upload tool
+## The essentialine upload tool
 
-Videos are published to the EssentiaLine YouTube channel using a small private script authorised through Google OAuth.
+Videos are published to the essentialine YouTube channel using a small private script authorised through Google OAuth.
 It acts only on that one channel, on the owner's behalf.
 It does not read, collect,
 or store any data belonging to anyone else,
