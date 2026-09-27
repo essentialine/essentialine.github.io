@@ -68,9 +68,9 @@ Munch also is beautiful.
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: flex-start; margin: 1.5rem auto;">
 <img src="/assets/images/1808_goya__el_coloso/1808_goya__el_coloso-friedrich-monch.jpg" alt="Friedrich's Der Mönch am Meer: one small figure on a strip of shore under an enormous sky" style="flex: 1.572 1.572 204px; min-width: 0; max-width: 100%; margin: 0;">
-<img src="/assets/images/1808_goya__el_coloso/1808_goya__el_coloso-munch-woman-by-the-sea.jpg" alt="Munch's Woman by the Sea in Åsgårdstrand: a small woman on the rocks before a wide pale sea" style="flex: 1.451 1.451 189px; min-width: 0; max-width: 100%; margin: 0;">
+<img src="/assets/images/1808_goya__el_coloso/1808_goya__el_coloso-munch-woman-by-the-sea.jpg" alt="Munch's Kvinne ved fjorden i Åsgårdstrand: a small woman on the rocks before a wide pale sea" style="flex: 1.451 1.451 189px; min-width: 0; max-width: 100%; margin: 0;">
 </div>
-*Left: Caspar David Friedrich,* Der Mönch am Meer *(The Monk by the Sea), 1808–1810, oil on canvas — Alte Nationalgalerie, Berlin ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Der_M%C3%B6nch_am_Meer_-_Google_Art_Project.jpg)); painted in the same years as* El coloso*. Right: Edvard Munch,* Woman by the Sea in Åsgårdstrand*, 1898, oil on canvas — private collection ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Woman_by_the_Sea_in_%C3%85sg%C3%A5rdstrand.jpg)). Both public domain.*
+*Left: Caspar David Friedrich,* Der Mönch am Meer *(The Monk by the Sea), 1808–1810, oil on canvas — Alte Nationalgalerie, Berlin ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Der_M%C3%B6nch_am_Meer_-_Google_Art_Project.jpg)); painted in the same years as* El coloso*. Right: Edvard Munch,* Kvinne ved fjorden i Åsgårdstrand *(Woman by the Fjord in Åsgårdstrand), 1898, oil on canvas — private collection ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Woman_by_the_Sea_in_%C3%85sg%C3%A5rdstrand.jpg)). Both public domain.*
 
 And the other question is,
 if I want to use just some thick lines,
@@ -144,6 +144,6 @@ a burnished aquatint at [The Metropolitan Museum of Art](https://www.metmuseum.o
 - [*El coloso* — Wikipedia (es)](https://es.wikipedia.org/wiki/El_coloso) — the 1812 inventory entry and the 2021 re-attribution
 - [*Seated Giant* — The Met](https://www.metmuseum.org/art/collection/search/334002) — Goya's aquatint of the same subject
 - [*Der Mönch am Meer* — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Der_M%C3%B6nch_am_Meer_-_Google_Art_Project.jpg) — Friedrich's small figure against the sky
-- [*Woman by the Sea in Åsgårdstrand* — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Woman_by_the_Sea_in_%C3%85sg%C3%A5rdstrand.jpg) — Munch, 1898, private collection
+- [*Kvinne ved fjorden i Åsgårdstrand* — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Woman_by_the_Sea_in_%C3%85sg%C3%A5rdstrand.jpg) — Munch, 1898, private collection
 - [Master image — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_coloso.jpg) — Prado-sourced scan
 - [Process video — Saturday 26 September](https://youtu.be/YqR6Qu9syXA) — YouTube
