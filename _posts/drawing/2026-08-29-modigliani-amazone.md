@@ -15,7 +15,7 @@ tags:
 *Left: my tracing. Right: Amedeo Modigliani, a study for L'Amazone (The Amazon) — public domain (Modigliani d. 1920). Reproduced in the Kindle compilation Amedeo Modigliani: 140 Master Drawings. See Background.*
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/95a2f0dc97e72789bb93283d547b6a6e/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/a61b50b680b93187f67c114feabf7bc1/iframe"
   style="border: none; display: block; width: 100%; max-width: 300px; margin: 1.5rem auto; aspect-ratio: 1/1;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">

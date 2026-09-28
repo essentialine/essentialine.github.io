@@ -20,7 +20,7 @@ San Diego (Catherine and Ralph Benkaim Collection,
 2006.045.007) — public domain.*
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/b5cb84bd1bef9bd12e86d1b0b6814e8c/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/a167811f7ad68a5efea81dd5bfbf2562/iframe"
   style="border: none; display: block; width: 100%; margin: 1.5rem auto; aspect-ratio: 16/9;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">

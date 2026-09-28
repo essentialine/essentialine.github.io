@@ -15,7 +15,7 @@ tags:
 *Left: my tracing. Right: Jean-Auguste-Dominique Ingres, [Mademoiselle Caroline Rivière](https://commons.wikimedia.org/wiki/File:Mademoiselle_Caroline_Rivi%C3%A8re_-_Jean-Auguste-Dominique_Ingres_-_Mus%C3%A9e_du_Louvre_Peintures_MI_1447.jpg), 1806, oil on canvas, 100 × 70 cm, Musée du Louvre, Paris (MI 1447) — public domain.*
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/7204bfea4b1148db9350e8f79366e894/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/faa22c4197533fc36c56e4dd11b5c8bb/iframe"
   style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">

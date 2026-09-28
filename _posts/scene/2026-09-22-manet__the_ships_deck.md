@@ -18,7 +18,7 @@ tags:
 <small>[The tracing](#tracing) · [Auction](#auction) · [Background](#background)</small>
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/830c39a51173112645fe011289b9c275/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/018c42c11c7c919fbcc2b0bc5acfafef/iframe"
   style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
@@ -168,4 +168,4 @@ more than a decade before *Olympia* or *Le déjeuner sur l'herbe*.
 - [National Gallery of Victoria — *The Ship's Deck*, Édouard Manet, c. 1860](https://www.ngv.vic.gov.au/explore/collection/work/4163/) — the master image, catalogue data, and public-domain statement
 - [Édouard Manet — Wikipedia](https://en.wikipedia.org/wiki/%C3%89douard_Manet) — biography, the 1848 Rio de Janeiro voyage
 - [Spring (Manet) — Wikipedia](https://en.wikipedia.org/wiki/Spring_(Manet)) — the $65 million Getty acquisition, the Manet auction record
-- [Process video — Tuesday 22 September](https://youtu.be/YCLTV3rZmvU) — YouTube
+- [Process video — Tuesday 22 September](https://youtu.be/SN9NvjYuwzA) — YouTube

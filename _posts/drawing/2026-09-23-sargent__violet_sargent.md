@@ -18,7 +18,7 @@ tags:
 <a id="tracing"></a>
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/b99c02a55b186e693b7421a2a1e08d3f/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/05e039d872afbca69cec1be2e6b7b37f/iframe"
   style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
@@ -114,5 +114,5 @@ and died in 1955.
 - [*Sleeping Child, possibly Violet Sargent* — The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/12234) — the earlier sketch of her, ca. 1872–73
 - [Violet Ormond — Wikidata](https://www.wikidata.org/wiki/Q18704645) — dates, marriage
 - [John Singer Sargent — Wikipedia](https://en.wikipedia.org/wiki/John_Singer_Sargent) — biography and auction figures
-- [Process video — Wednesday 23 September](https://youtu.be/E3kkb7meSv4) — YouTube
+- [Process video — Wednesday 23 September](https://youtu.be/xOxb1fBeoLg) — YouTube
 - [Sargent's Violet, in pencil](/drawing/sargent-violet-line-and-graphite/) — my first tracing of this drawing, July 2026

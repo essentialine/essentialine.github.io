@@ -15,7 +15,7 @@ tags:
 *Left: my first tracing. Right: Leonardo da Vinci, [Testa di Leda](https://commons.wikimedia.org/wiki/File:Study_for_the_Head_of_Leda.jpg) (The Head of Leda), a detail of the sheet, pen and ink, Royal Collection Trust, Windsor (RCIN 912516) — public domain.*
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/8017242b4f21886015e0dfc2786d6d62/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/777d5f26ec262c136d8b6c475f387628/iframe"
   style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
@@ -54,7 +54,7 @@ I tried to follow it, but I feel there's more to do.
 ![My second tracing beside Leonardo's Testa di Leda](/assets/images/davinci-leda/diptych-leda-2.png)
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/3f5a76887499b7ee2bde6265ffd67aa8/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/69e141c982acf2f69c5d11e17a1014b4/iframe"
   style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
@@ -73,7 +73,7 @@ I think this one was somewhat better, though too busy.
 ![My third tracing beside Leonardo's Testa di Leda](/assets/images/davinci-leda/diptych-leda-3.png)
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/377b03ddfdb3cd72b5f0e1b77beaab50/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/acc92a5b24fa1f5a6d03f08e2c41849d/iframe"
   style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">

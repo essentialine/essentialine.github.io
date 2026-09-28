@@ -17,7 +17,7 @@ links *(Bust Portrait Facing Left) — pencil on paper, dated 1915 in the plate.
 Reproduced in Maria Peitcheva, Klimt: Drawings 126 Colour Plates (2016).*
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/fc81e9f772df8a4ae4393a3c5a2a185a/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/04c2a4ba0080c2da4d5ec4f019b53597/iframe"
   style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
