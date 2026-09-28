@@ -21,7 +21,7 @@ tags:
 ## Monday 31 August
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/58b9778812c86e41f79c848928ae3d09/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/a2333d1087ad71b4fc953440729f485c/iframe"
   style="border: none; display: block; width: 100%; margin: 1.5rem auto; aspect-ratio: 16/9;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
@@ -80,7 +80,7 @@ Right: the same detail — Orsola between the man in the beret
 and the self-portrait.*
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/3b3e1614b2ab83396e5e5accd94bf1fe/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/41ee6b6cfc23c284db1db10b7635e353/iframe"
   style="border: none; display: block; width: 100%; margin: 1.5rem auto; aspect-ratio: 16/9;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">

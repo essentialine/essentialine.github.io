@@ -18,7 +18,7 @@ tags:
 <small>[The tracing](#tracing) · [Auction](#auction) · [Background](#background)</small>
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/e9dcb951d83d47cd167aa8d27d55945c/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/99fb6500efb475246a70dc7787670d60/iframe"
   style="border: none; display: block; width: 100%; margin: 1.5rem auto; aspect-ratio: 16/9;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
@@ -185,5 +185,5 @@ nothing citable, so I'm leaving that open too.
 - [Sotheby's — The rediscovery of a rare bust by Alphonse Mucha](https://www.sothebys.com/en/articles/the-rediscovery-of-a-rare-bust-by-art-nouveau-master-alphonse-mucha) — the $807,000 *La Nature* result and the 2019 estimate
 - [Sotheby's — *La Nature*, lot 62 (*Important Design*, 28 May 2019)](https://www.sothebys.com/en/auctions/ecatalogue/2019/design-pf1904/lot.62.html) — the lot page, same catalogue note
 - [Sotheby's — *Mistletoe: Portrait of Mme Mucha* (2021)](https://www.sothebys.com/en/buy/auction/2021/20th-century-art-a-different-perspective/mistletoe-portrait-of-mme-mucha) — estimate £40,000–60,000
-- [Process video — Monday 21 September](https://youtu.be/waAE2SRzfL4) — YouTube
+- [Process video — Monday 21 September](https://youtu.be/f_GtY0GeJyQ) — YouTube
 - [*Sitzend nach rechts, Halbbild*, in line](/drawing/klimt__seated_woman/) — the other recent tracing where a few lines had to carry the whole face

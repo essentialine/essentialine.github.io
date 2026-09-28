@@ -15,7 +15,7 @@ tags:
 *Left: my tracing. Right: Leonardo da Vinci, [Studio per la Madonna dei Fusi](https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci,_Study_for_Madonna_with_the_Yarnwinder.jpg) (Study for the Madonna with the Yarnwinder), c. 1501, red chalk and silverpoint on rose-prepared paper, 25.7 × 20.3 cm, Gallerie dell'Accademia, Venezia (Venice) — public domain.*
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/9cd8a907d4385c4450c8e74b8b0c4ade/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/040c05c30180169a2bb4970c7a7a296b/iframe"
   style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">

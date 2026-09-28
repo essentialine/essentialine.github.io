@@ -15,7 +15,7 @@ tags:
 *Left: my tracing, Wednesday 16 September. Right: Paul Gauguin,* Crouching Tahitian Woman *(related to the painting* Nafea faa ipoipo *[When Will You Marry?]), 1891/93 — pastel over charcoal, squared in black chalk, on wove paper, 55.5 × 48 cm, [Art Institute of Chicago](https://api.artic.edu/api/v1/artworks/51374) (acc. 1944.578r). Public domain (Gauguin d. 1903).*
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/5ca1a2dae82b81721895dca1e679e9cf/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/8402f0d0e729524a0d2a6fb6405cd234/iframe"
   style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
@@ -133,7 +133,7 @@ and later at the Art Institute's own Gauguin retrospectives (1946,
 ---
 
 **Links**
-- [Process video — Wednesday 16 September](https://youtu.be/_wxTI1GJSP0) — YouTube
+- [Process video — Wednesday 16 September](https://youtu.be/P4MeDauWhFk) — YouTube
 - [Art Institute of Chicago — API record for *Crouching Tahitian Woman*](https://api.artic.edu/api/v1/artworks/51374) — the museum's own accession, medium/dimensions, provenance, and exhibition history
 - [File: Gauguin - Kauerndes Mädchen von Tahiti - 1892 — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gauguin_-_Kauerndes_M%C3%A4dchen_von_Tahiti_-_1892.jpg) — the source link tasked into the inbox on 16 September; master image source
 - [*Nafea Faa Ipoipo* — Wikipedia](https://en.wikipedia.org/wiki/Nafea_Faa_Ipoipo) — the finished painting and its 2015 private sale

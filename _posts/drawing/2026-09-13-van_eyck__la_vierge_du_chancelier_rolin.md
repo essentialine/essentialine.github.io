@@ -19,7 +19,7 @@ tags:
 <a id="tracing"></a>
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/b5062a1ce8c7c954ca9bfc522d0c0ae4/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/da4c9ba6d0a184f8d56c68916005e659/iframe"
   style="border: none; display: block; width: 100%; max-width: 300px; margin: 1.5rem auto; aspect-ratio: 1080/1188;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
@@ -171,4 +171,4 @@ and the room's marble and gilding.
 - [*A New Look at Jan Van Eyck* — Musée du Louvre](https://www.louvre.fr/en/exhibitions-and-events/exhibitions/a-new-look-at-jan-van-eyck) — the 2024 restoration and exhibition, source for the still-open "two small figures" question
 - [*Madonna of Chancellor Rolin* — Wikipedia](https://en.wikipedia.org/wiki/Madonna_of_Chancellor_Rolin) — composition, symbolism, and Rolin's biography
 - [Category: The Virgin with Chancellor Rolin by Jan van Eyck — Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:The_Virgin_with_Chancellor_Rolin_by_Jan_van_Eyck) — the source link tasked into the inbox on 13 September
-- [Process video](https://youtu.be/PI89OQSorRU) — YouTube
+- [Process video](https://youtu.be/LftS5a4X5Wk) — YouTube

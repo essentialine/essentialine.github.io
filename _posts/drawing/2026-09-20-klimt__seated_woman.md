@@ -14,7 +14,7 @@ tags:
 *Left: my tracing, Sunday 20 September. Right: Gustav Klimt,* Sitzend nach rechts, Halbbild (Seated Woman) *, c. 1915 — pencil and colored pencil on paper, 19 3/4 × 12 7/8" (50.1 × 32.7 cm), [Museum of Modern Art](https://www.moma.org/collection/works/32991), New York — Gift of J.B. Neumann, 1964 (accession 3.1964). Public domain (Klimt d. 1918). Photo: MoMA's own collection image, converted to grayscale with the paper tone flattened and contrast raised so the very faint pencil reads.*
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/c58b015b211c68e5d155dce1eb84fcbe/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/1425477e0b7459bf2f5bcd2aa820c30e/iframe"
   style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
@@ -172,5 +172,5 @@ so I'm leaving those open rather than borrowing an answer from elsewhere.
 - [Gustav Klimt — Wikipedia](https://en.wikipedia.org/wiki/Gustav_Klimt) — biographical facts (dates, death, working method)
 - [Sotheby's — The New York Sales, November 2025: Breuer Results](https://www.sothebys.com/en/articles/the-new-york-sales-november-2025-breuer-results) — the $236.4m Klimt record
 - [Sotheby's Lot 9 — *Sitzend von vorne...* (Study for Portrait I of Adele Bloch-Bauer)](https://www.sothebys.com/en/buy/auction/2025/leonard-a-lauder-collector-evening-auction/sitzend-von-vorne-mit-ausgestrecktem-linkem-arm) — the $520,700 drawing comparable
-- [Process video — Sunday 20 September](https://youtu.be/_Iu9-FriU4o) — YouTube
+- [Process video — Sunday 20 September](https://youtu.be/4ZOJT4tUMjg) — YouTube
 - [*Zwei Mädchen mit Oleander*, in line](/drawing/klimt__zwei_madchen_mit_oleander/) — the other recent Klimt I've traced, an early (c. 1890–92) academic painting at the opposite end of his career from this late, searching pencil sheet

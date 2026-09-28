@@ -22,7 +22,7 @@ tags:
 ## The frontal, drawn twice
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/f03ba1c673b77575c3e1fb41274f4380/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/088936ded4c50feea87170374e2d1b42/iframe"
   style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
@@ -86,7 +86,7 @@ I'm not sure it's any better.
 *Left: my drawing, 16 July. Right: Julia Margaret Cameron, [Mrs. Herbert Duckworth](https://www.metmuseum.org/art/collection/search/283098) (Julia Jackson), 1867, albumen silver print, 32.8 × 23.7 cm, The Metropolitan Museum of Art (2005.100.26) — public domain.*
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/8b6898b6b4914a7c4cadd039945caa7b/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/5dfcb1af28da8fefa2f994ce8f75a778/iframe"
   style="border: none; display: block; width: 100%; margin: 1.5rem auto; aspect-ratio: 16/9;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">

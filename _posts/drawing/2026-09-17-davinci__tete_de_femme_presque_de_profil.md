@@ -15,7 +15,7 @@ tags:
 *Left: my tracing, Thursday 17 September. Right: Leonardo da Vinci,* Tête de femme presque de profil et croquis d'homme *(Head of a Woman Almost in Profile, and Sketch of a Man), c. 1488/1490 — metalpoint (silverpoint) on light gray prepared paper with white heightening, 17.9 × 16.8 cm, [Musée du Louvre](https://collections.louvre.fr/en/ark:/53355/cl020003165) (INV 2376, Recto). Public domain (Leonardo d. 1519).*
 
 <iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/5037df71078d766565a4d1bf1feee139/iframe"
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/0824a1bb4022399285c68a3eb8a682fd/iframe"
   style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
   allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
   allowfullscreen="true">
@@ -144,4 +144,4 @@ It isn't Leonardo's own work.
 - [*Madonna Litta* — Wikipedia](https://en.wikipedia.org/wiki/Madonna_Litta) — the attribution dispute (Hermitage vs. Kemp/Brown)
 - [*Head of a Bear* — Wikipedia](https://en.wikipedia.org/wiki/Head_of_a_Bear) — auction-record context
 - [Royal Collection Trust — Leonardo's drawing materials](https://www.youtube.com/watch?v=-f0ym3CtleQ) — how a silverpoint drawing like this one is actually made
-- [Process video — Thursday 17 September](https://youtu.be/HXdRizyP4Ag) — YouTube
+- [Process video — Thursday 17 September](https://youtu.be/KDDrGSk2Z2o) — YouTube
