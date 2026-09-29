@@ -1,0 +1,7 @@
+{
+  "out": "assets/images/1808_goya__a_que_vendra_el_faldellin_y_los_calzones/1808_goya__a_que_vendra_el_faldellin_y_los_calzones-diptych.png",
+  "height": 1400,
+  "gutter": 28,
+  "left":  { "src": "assets/images/1808_goya__a_que_vendra_el_faldellin_y_los_calzones/1808_goya__a_que_vendra_el_faldellin_y_los_calzones-tracing.png" },
+  "right": { "src": "assets/images/1808_goya__a_que_vendra_el_faldellin_y_los_calzones/1808_goya__a_que_vendra_el_faldellin_y_los_calzones-master.jpg", "crop": "1644x2192+290+760" }
+}
