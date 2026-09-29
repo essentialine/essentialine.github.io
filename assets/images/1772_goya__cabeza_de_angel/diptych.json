@@ -1,0 +1,7 @@
+{
+  "out": "assets/images/1772_goya__cabeza_de_angel/1772_goya__cabeza_de_angel-diptych.png",
+  "height": 1400,
+  "gutter": 28,
+  "left":  { "src": "assets/images/1772_goya__cabeza_de_angel/1772_goya__cabeza_de_angel-tracing.png" },
+  "right": { "src": "assets/images/1772_goya__cabeza_de_angel/1772_goya__cabeza_de_angel-master.jpg" }
+}
