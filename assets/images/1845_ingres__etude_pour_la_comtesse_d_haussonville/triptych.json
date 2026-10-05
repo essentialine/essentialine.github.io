@@ -1,0 +1,10 @@
+{
+  "out": "assets/images/1845_ingres__etude_pour_la_comtesse_d_haussonville/1845_ingres__etude_pour_la_comtesse_d_haussonville-triptych.png",
+  "height": 1024,
+  "gutter": 28,
+  "panels": [
+    { "src": "assets/images/1845_ingres__etude_pour_la_comtesse_d_haussonville/1845_ingres__etude_pour_la_comtesse_d_haussonville-painting.jpg" },
+    { "src": "assets/images/1845_ingres__etude_pour_la_comtesse_d_haussonville/1845_ingres__etude_pour_la_comtesse_d_haussonville-tracing-flat.png", "whiteout": ["0,0,3024,200"] },
+    { "src": "assets/images/1845_ingres__etude_pour_la_comtesse_d_haussonville/1845_ingres__etude_pour_la_comtesse_d_haussonville-master.jpg" }
+  ]
+}
