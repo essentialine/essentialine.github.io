@@ -46,7 +46,7 @@ and collects no data about anyone else on YouTube.
 
 ## Pinterest app
 
-The essentialine Pinterest app (app ID 1620882)
+The essentialine Pinterest app (app ID 1620906)
 is a private tool used only by the owner of this site,
 to post essentialine's own drawings to the essentialine Pinterest account.
 It reads that account's username, to confirm it is signed in to the right account,
