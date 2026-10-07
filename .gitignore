@@ -9,6 +9,10 @@ _blocked-holding/
 # Syncthing-local Claude context — never publish
 CLAUDE.md
 INFLUENCES.md
+POSTS.md
+
+# Claude Code local settings — never publish
+.claude/
 
 # gThumb metadata directories — never publish
 **/.comments/
