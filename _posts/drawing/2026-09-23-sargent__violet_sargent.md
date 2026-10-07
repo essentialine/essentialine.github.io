@@ -8,6 +8,7 @@ tags:
   - "sargent"
   - "portrait"
   - "line"
+pin_image: /assets/images/1883_sargent__violet_sargent/1883_sargent__violet_sargent-tracing-corrected.png
 ---
 
 ![Two tracings of the same drawing, two and a half months apart, flanking John Singer Sargent's Violet Sargent](/assets/images/1883_sargent__violet_sargent/1883_sargent__violet_sargent-triptych.png)

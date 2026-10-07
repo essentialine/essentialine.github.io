@@ -9,6 +9,7 @@ tags:
   - "portrait"
   - "line"
   - "video"
+pin_image: /assets/images/1883_degas__hortense_valpincon/1883_degas__hortense_valpincon-tracing.png
 ---
 
 ![My tracing beside Degas's Portrait of Hortense Valpinçon](/assets/images/1883_degas__hortense_valpincon/1883_degas__hortense_valpincon-diptych.png)

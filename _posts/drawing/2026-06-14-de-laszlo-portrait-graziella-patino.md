@@ -10,6 +10,7 @@ tags:
   - "auction"
   - "paris"
   - "oil"
+pin_image: /assets/images/de-laszlo-portrait-graziella-patino/260626_dali.grazy.tracing.png
 ---
 
 ![My line tracing over de László's 1928 Graziella](/assets/images/de-laszlo-portrait-graziella-patino/gracclip.png)

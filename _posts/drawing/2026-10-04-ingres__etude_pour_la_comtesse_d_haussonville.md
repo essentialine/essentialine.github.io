@@ -4,6 +4,7 @@ date: "2026-10-04"
 categories: ["drawing"]
 tags: ["ingres", "portrait", "french", "study"]
 permalink: /drawing/ingres__etude_pour_la_comtesse_d_haussonville/
+pin_image: /assets/images/1845_ingres__etude_pour_la_comtesse_d_haussonville/1845_ingres__etude_pour_la_comtesse_d_haussonville-tracing-flat.png
 ---
 
 ![]({{ site.baseurl }}/assets/images/1845_ingres__etude_pour_la_comtesse_d_haussonville/1845_ingres__etude_pour_la_comtesse_d_haussonville-triptych.png)

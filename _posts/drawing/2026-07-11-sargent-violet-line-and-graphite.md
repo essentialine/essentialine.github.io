@@ -8,6 +8,7 @@ tags:
   - "sargent"
   - "portrait"
   - "line"
+pin_image: /assets/images/sargent-violet-line-and-graphite/sargent-violet-tracing.png
 ---
 
 ![My tracing beside Sargent's Violet](/assets/images/sargent-violet-line-and-graphite/diptych-violet-sargent.png)

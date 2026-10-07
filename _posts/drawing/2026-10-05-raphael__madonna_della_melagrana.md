@@ -4,6 +4,7 @@ date: "2026-10-05"
 categories: ["drawing"]
 tags: ["raphael", "madonna", "italian", "renaissance", "chalk"]
 permalink: /drawing/raphael__madonna_della_melagrana/
+pin_image: /assets/images/1504_raphael__madonna_della_melagrana/1504_raphael__madonna_della_melagrana-tracing-flat.png
 ---
 
 ![]({{ site.baseurl }}/assets/images/1504_raphael__madonna_della_melagrana/1504_raphael__madonna_della_melagrana-diptych.png)

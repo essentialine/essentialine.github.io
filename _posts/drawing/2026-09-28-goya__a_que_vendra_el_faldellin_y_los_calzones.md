@@ -12,6 +12,7 @@ tags:
   - "brush pen"
   - "figure"
   - "line"
+pin_image: /assets/images/1808_goya__a_que_vendra_el_faldellin_y_los_calzones/1808_goya__a_que_vendra_el_faldellin_y_los_calzones-tracing.png
 ---
 
 ![My tracing beside Goya's ¿A qué vendrá el faldellín y los calzones?](/assets/images/1808_goya__a_que_vendra_el_faldellin_y_los_calzones/1808_goya__a_que_vendra_el_faldellin_y_los_calzones-diptych.png)

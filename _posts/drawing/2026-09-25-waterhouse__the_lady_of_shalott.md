@@ -10,6 +10,7 @@ tags:
   - "pre-raphaelite"
   - "figure"
   - "line"
+pin_image: /assets/images/1888_waterhouse__the_lady_of_shalott/1888_waterhouse__the_lady_of_shalott-tracing-flat.png
 ---
 
 ![My tracing beside Waterhouse's The Lady of Shalott](/assets/images/1888_waterhouse__the_lady_of_shalott/1888_waterhouse__the_lady_of_shalott-diptych.png)

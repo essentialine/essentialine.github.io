@@ -9,6 +9,7 @@ tags:
   - "portrait"
   - "line"
   - "video"
+pin_image: /assets/images/1435_van_eyck__la_vierge_du_chancelier_rolin/1435_van_eyck__la_vierge_du_chancelier_rolin-tracing.png
 ---
 
 ![My tracing beside Van Eyck's La Vierge du chancelier Rolin (The Virgin of Chancellor Rolin)](/assets/images/1435_van_eyck__la_vierge_du_chancelier_rolin/1435_van_eyck__la_vierge_du_chancelier_rolin-diptych.png)

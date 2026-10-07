@@ -8,6 +8,7 @@ tags:
   - "klimt"
   - "portrait"
   - "line"
+pin_image: /assets/images/1915_klimt__seated_woman/1915_klimt__seated_woman-tracing.png
 ---
 
 ![My tracing beside Klimt's Sitzend nach rechts, Halbbild (Seated Woman)](/assets/images/1915_klimt__seated_woman/1915_klimt__seated_woman-diptych.png)

@@ -9,6 +9,7 @@ tags:
   - "figure"
   - "line"
   - "motion"
+pin_image: /assets/images/muybridge-waltz-line-and-photograph/muybridge-tracing.png
 ---
 
 ![My tracing of the waltz sequence, gesture only](/assets/images/muybridge-waltz-line-and-photograph/muybridge-tracing.png)

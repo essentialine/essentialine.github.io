@@ -10,6 +10,7 @@ tags:
   - "romanticism"
   - "figure"
   - "line"
+pin_image: /assets/images/1808_goya__el_coloso/1808_goya__el_coloso-tracing.png
 ---
 
 ![My tracing beside El coloso, attributed to Goya](/assets/images/1808_goya__el_coloso/1808_goya__el_coloso-diptych.png)

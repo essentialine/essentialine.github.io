@@ -9,6 +9,7 @@ tags:
   - "portrait"
   - "line"
   - "video"
+pin_image: /assets/images/1483_davinci__testa_di_fanciulla/1483_davinci__testa_di_fanciulla-tracing-flat.png
 ---
 
 ![My two tracings either side of Leonardo's Volto di fanciulla](/assets/images/1483_davinci__testa_di_fanciulla/1483_davinci__testa_di_fanciulla-triptych.png)

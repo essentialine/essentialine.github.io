@@ -1,0 +1,32 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+{%- comment -%}
+  RSS 2.0 for Pinterest auto-publish, which rejects jekyll-feed's Atom feed.xml.
+  Only posts with `pin_image:` front matter (the tall tracing) become items.
+  Behaviour and why: _process/tools/tests/test_pinterest_feed.py
+{%- endcomment -%}
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>{{ site.title | xml_escape }}</title>
+<link>{{ site.url }}/</link>
+<description>{{ site.description | xml_escape }}</description>
+{%- for post in site.posts %}{% if post.pin_image %}
+{%- assign image = post.pin_image | absolute_url %}
+{%- if image contains ".png" %}{% assign type = "image/png" %}{% else %}{% assign type = "image/jpeg" %}{% endif %}
+{%- assign body = post.content %}
+{%- if body contains "</small>" %}{% assign body = body | split: "</small>" | shift | join: "</small>" %}{% endif %}
+<item>
+<title>{{ post.title | xml_escape }}</title>
+<link>{{ post.url | absolute_url }}</link>
+<guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+<description>{{ body | strip_html | normalize_whitespace | truncate: 500 | xml_escape }}</description>
+<media:content url="{{ image }}" medium="image" type="{{ type }}"/>
+<enclosure url="{{ image }}" length="0" type="{{ type }}"/>
+</item>
+{%- endif %}{% endfor %}
+</channel>
+</rss>

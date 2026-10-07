@@ -8,6 +8,7 @@ tags:
   - "tonnis"
   - "line"
   - "portrait"
+pin_image: /assets/images/tonnis-female-warrior-extinction/tracing-extinction14.png
 ---
 
 ![Tracing beside Tonnis's Female Warrior #14 "Extinction," 1981](/assets/images/tonnis-female-warrior-extinction/diptych-extinction14.png)

@@ -4,6 +4,7 @@ date: "2026-10-06"
 categories: ["drawing"]
 tags: ["rodin", "hanako", "french", "portrait", "mask", "japan", "graphite", "watercolour"]
 permalink: /drawing/rodin__hanako/
+pin_image: /assets/images/1906_rodin__hanako/1906_rodin__hanako-tracing-flat.png
 ---
 
 ![]({{ site.baseurl }}/assets/images/1906_rodin__hanako/1906_rodin__hanako-diptych.png)

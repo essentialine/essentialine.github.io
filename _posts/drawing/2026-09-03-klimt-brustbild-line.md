@@ -9,6 +9,7 @@ tags:
   - "portrait"
   - "line"
   - "video"
+pin_image: /assets/images/klimt-brustbild-line/klimt-brustbild-tracing.png
 ---
 
 ![My tracing beside Klimt's Brustbild nach links](/assets/images/klimt-brustbild-line/diptych-klimt-brustbild.png)

@@ -9,6 +9,7 @@ tags:
   - "tree"
   - "line"
   - "video"
+pin_image: /assets/images/schiele-tree-line-and-video/pflaumenbaum-tracing-scan.png
 ---
 
 ![My tracing beside Schiele's Pflaumenbaum](/assets/images/schiele-tree-line-and-video/diptych-pflaumenbaum.png)

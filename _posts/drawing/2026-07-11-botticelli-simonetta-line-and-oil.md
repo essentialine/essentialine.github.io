@@ -8,6 +8,7 @@ tags:
   - "botticelli"
   - "portrait"
   - "line"
+pin_image: /assets/images/botticelli-simonetta-line-and-oil/simonetta-tracing.png
 ---
 
 ![My tracing beside Botticelli's Simonetta Vespucci](/assets/images/botticelli-simonetta-line-and-oil/diptych-simonetta.png)

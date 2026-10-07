@@ -9,6 +9,7 @@ tags:
   - "figure"
   - "line"
   - "video"
+pin_image: /assets/images/munch-livets-dans/woman-tracing-scan.png
 ---
 
 ![My tracing of the woman in black beside her detail from Munch's The Dance of Life](/assets/images/munch-livets-dans/diptych-woman.png)

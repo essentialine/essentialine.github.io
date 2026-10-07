@@ -8,6 +8,7 @@ tags:
   - "munch"
   - "portrait"
   - "line"
+pin_image: /assets/images/munch-inger-alexandra-line-and-oil/alexandra-tracing.png
 ---
 
 <a id="alexandra"></a>

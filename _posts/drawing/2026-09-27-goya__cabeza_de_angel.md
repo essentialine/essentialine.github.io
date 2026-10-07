@@ -11,6 +11,7 @@ tags:
   - "head"
   - "crosshatching"
   - "line"
+pin_image: /assets/images/1772_goya__cabeza_de_angel/1772_goya__cabeza_de_angel-tracing.png
 ---
 
 ![My tracing beside Goya's Cabeza de ángel](/assets/images/1772_goya__cabeza_de_angel/1772_goya__cabeza_de_angel-diptych.png)

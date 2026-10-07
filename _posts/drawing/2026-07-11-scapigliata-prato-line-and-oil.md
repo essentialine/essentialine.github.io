@@ -9,6 +9,7 @@ tags:
   - "raphael"
   - "portrait"
   - "line"
+pin_image: /assets/images/scapigliata-prato-line-and-oil/scapigliata-tracing.png
 ---
 
 ![My tracing beside Leonardo's La Scapigliata](/assets/images/scapigliata-prato-line-and-oil/diptych-scapigliata.png)

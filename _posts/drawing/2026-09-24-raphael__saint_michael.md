@@ -9,6 +9,7 @@ tags:
   - "louvre"
   - "figure"
   - "line"
+pin_image: /assets/images/1518_raphael__saint_michael/1518_raphael__saint_michael-tracing-flat.png
 ---
 
 ![My tracing beside Raphael's Saint Michel terrassant le démon](/assets/images/1518_raphael__saint_michael/1518_raphael__saint_michael-diptych.png)

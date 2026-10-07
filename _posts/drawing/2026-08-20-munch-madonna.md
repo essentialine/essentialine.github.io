@@ -8,6 +8,7 @@ tags:
   - "munch"
   - "portrait"
   - "line"
+pin_image: /assets/images/munch-madonna/madonna-tracing-scan.png
 ---
 
 ![My tracing beside Munch's Madonna, cropped to the face](/assets/images/munch-madonna/diptych-madonna.png)

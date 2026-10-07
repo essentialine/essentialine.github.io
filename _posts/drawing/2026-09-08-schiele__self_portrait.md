@@ -9,6 +9,7 @@ tags:
   - "portrait"
   - "line"
   - "video"
+pin_image: /assets/images/1914_schiele__self_portrait/1914_schiele__self_portrait-tracing.png
 ---
 
 ![My tracing beside Schiele's 1914 drypoint Selbstbildnis](/assets/images/1914_schiele__self_portrait/1914_schiele__self_portrait-diptych.png)

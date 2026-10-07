@@ -9,6 +9,7 @@ tags:
   - "portrait"
   - "line"
   - "video"
+pin_image: /assets/images/1540_michelangelo__testa_della_vergine/1540_michelangelo__testa_della_vergine-tracing-flat.png
 ---
 
 ![My tracing beside Michelangelo's Testa della Vergine](/assets/images/1540_michelangelo__testa_della_vergine/1540_michelangelo__testa_della_vergine-diptych.png)

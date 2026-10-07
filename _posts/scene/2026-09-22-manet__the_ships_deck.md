@@ -8,6 +8,7 @@ tags:
   - "manet"
   - "marine"
   - "line"
+pin_image: /assets/images/1860_manet__the_ships_deck/1860_manet__the_ships_deck-tracing-corrected.png
 ---
 
 ![My tracing beside Édouard Manet's The Ship's Deck](/assets/images/1860_manet__the_ships_deck/1860_manet__the_ships_deck-diptych.png)

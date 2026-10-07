@@ -10,6 +10,7 @@ tags:
   - "perspective"
   - "line"
   - "video"
+pin_image: /assets/images/view-along-the-river/view-along-the-river-drawing.png
 ---
 
 ![My drawing beside an 1875 photograph, "View along the river"](/assets/images/view-along-the-river/diptych-view-along-the-river.png)

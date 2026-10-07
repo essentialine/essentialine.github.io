@@ -9,6 +9,7 @@ tags:
   - "charcoal"
   - "line"
   - "auction"
+pin_image: /assets/images/matisse-lydia-line-and-tone/260705.matisse2.tracing.png
 ---
 
 ![Tracing beside Matisse's finished oil, Portrait au manteau bleu, 1935](/assets/images/matisse-lydia-line-and-tone/diptych-lydia.png)

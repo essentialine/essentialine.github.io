@@ -9,6 +9,7 @@ tags:
   - "portrait"
   - "line"
   - "video"
+pin_image: /assets/images/1918_modigliani__portrait_of_a_young_woman/1918_modigliani__portrait_of_a_young_woman-tracing.png
 ---
 
 ![My tracing beside Modigliani's Ritratto di giovane donna (Portrait of a Young Woman)](/assets/images/1918_modigliani__portrait_of_a_young_woman/1918_modigliani__portrait_of_a_young_woman-diptych.png)

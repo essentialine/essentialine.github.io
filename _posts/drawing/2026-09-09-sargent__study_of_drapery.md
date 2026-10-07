@@ -8,6 +8,7 @@ tags:
   - "sargent"
   - "line"
   - "video"
+pin_image: /assets/images/1890_sargent__study_of_drapery/1890_sargent__study_of_drapery-tracing.png
 ---
 
 ![My tracing beside Sargent's drapery studies of an Arab woman](/assets/images/1890_sargent__study_of_drapery/1890_sargent__study_of_drapery-diptych.png)

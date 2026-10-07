@@ -9,6 +9,7 @@ tags:
   - "portrait"
   - "line"
   - "video"
+pin_image: /assets/images/munch-laura-line-and-video/laura-tracing-scan.png
 ---
 
 ![My tracing beside Munch's Laura Munch, three-quarter view](/assets/images/munch-laura-line-and-video/diptych-laura.png)

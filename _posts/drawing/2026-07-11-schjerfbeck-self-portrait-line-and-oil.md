@@ -9,6 +9,7 @@ tags:
   - "portrait"
   - "line"
   - "color"
+pin_image: /assets/images/schjerfbeck-self-portrait-line-and-oil/schjerfbeck-tracing.png
 ---
 
 ![My tracing beside Schjerfbeck's 1895 self-portrait](/assets/images/schjerfbeck-self-portrait-line-and-oil/diptych-schjerfbeck.png)

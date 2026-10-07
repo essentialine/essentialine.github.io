@@ -8,6 +8,7 @@ tags:
   - "mucha"
   - "portrait"
   - "line"
+pin_image: /assets/images/1920_mucha__fate/1920_mucha__fate-tracing.png
 ---
 
 ![My tracing beside Alfons Mucha's Fate](/assets/images/1920_mucha__fate/1920_mucha__fate-diptych.png)

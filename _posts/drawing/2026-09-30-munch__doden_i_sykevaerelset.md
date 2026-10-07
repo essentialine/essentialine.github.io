@@ -10,6 +10,7 @@ tags:
   - "family"
   - "interior"
   - "line"
+pin_image: /assets/images/1893_munch__doden_i_sykevaerelset/1893_munch__doden_i_sykevaerelset-tracing.png
 ---
 
 ![My tracing beside Munch's Døden i sykeværelset](/assets/images/1893_munch__doden_i_sykevaerelset/1893_munch__doden_i_sykevaerelset-diptych.png)

@@ -4,6 +4,7 @@ date: "2026-10-03"
 categories: ["drawing"]
 tags: ["rousseau", "portrait", "french"]
 permalink: /drawing/rousseau__portrait_de_monsieur_x/
+pin_image: /assets/images/1906_rousseau__portrait_de_monsieur_x/1906_rousseau__portrait_de_monsieur_x-tracing-flat.png
 ---
 
 ![]({{ site.baseurl }}/assets/images/1906_rousseau__portrait_de_monsieur_x/1906_rousseau__portrait_de_monsieur_x-diptych.png)

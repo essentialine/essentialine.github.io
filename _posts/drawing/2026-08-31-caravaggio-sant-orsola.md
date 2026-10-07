@@ -9,6 +9,7 @@ tags:
   - "portrait"
   - "line"
   - "video"
+pin_image: /assets/images/caravaggio-sant-orsola/ursula-831-tracing.png
 ---
 
 ![My 31 August tracing beside a detail of Caravaggio's Il martirio di sant'Orsola](/assets/images/caravaggio-sant-orsola/diptych-ursula-831.png)

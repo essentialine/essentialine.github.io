@@ -9,6 +9,7 @@ tags:
   - "portrait"
   - "line"
   - "video"
+pin_image: /assets/images/1882_toulouse-lautrec__der_junge_routy_auf_schloss_celeyran/1882_toulouse-lautrec__der_junge_routy_auf_schloss_celeyran-tracing.png
 ---
 
 ![My tracing beside Toulouse-Lautrec's Der junge Routy auf Schloss Céleyran (Young Routy at Céleyran)](/assets/images/1882_toulouse-lautrec__der_junge_routy_auf_schloss_celeyran/1882_toulouse-lautrec__der_junge_routy_auf_schloss_celeyran-diptych.png)

@@ -9,6 +9,7 @@ tags:
   - "portrait"
   - "line"
   - "video"
+pin_image: /assets/images/1890_klimt__zwei_madchen_mit_oleander/1890_klimt__zwei_madchen_mit_oleander-tracing.png
 ---
 
 ![My tracing beside Klimt's Zwei Mädchen mit Oleander (Two Girls with an Oleander)](/assets/images/1890_klimt__zwei_madchen_mit_oleander/1890_klimt__zwei_madchen_mit_oleander-diptych.png)

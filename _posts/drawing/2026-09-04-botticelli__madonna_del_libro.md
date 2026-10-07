@@ -9,6 +9,7 @@ tags:
   - "portrait"
   - "line"
   - "video"
+pin_image: /assets/images/1480_botticelli__madonna_del_libro/1480_botticelli__madonna_del_libro-tracing.png
 ---
 
 ![My tracing of the Madonna's head beside Botticelli's Madonna del Libro](/assets/images/1480_botticelli__madonna_del_libro/1480_botticelli__madonna_del_libro-diptych.png)
