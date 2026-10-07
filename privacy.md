@@ -4,13 +4,10 @@ layout: page
 permalink: /privacy/
 ---
 
-<!-- Neal: review before pushing. Kept deliberately short. Not linked in the
-     nav — it exists at /privacy/ for the mailing-list provider and the
-     YouTube upload app that require a policy URL. -->
 
-*Last updated: 2026-08-29*
+*Last updated: 2026-10-07*
 
-This site is a personal art blog run by Neal C.
+This site is an educational art blog.
 It does not sell anything here, run its own analytics,
 or set advertising cookies.
 
@@ -22,7 +19,7 @@ and is used only to send occasional posts
 and updates from essentialine.
 It is never sold or shared.
 Every email includes an unsubscribe link;
-you can also write to [busy.fern6321@fastmail.com](mailto:busy.fern6321@fastmail.com) to be removed,
+you can also write to the address below to be removed,
 and your address will be deleted.
 
 ## Hosting
@@ -40,13 +37,12 @@ Playing an embedded video loads content from those services,
 which have their own privacy policies ([Cloudflare](https://www.cloudflare.com/privacypolicy/),
 [YouTube / Google](https://policies.google.com/privacy)).
 
-## The essentialine upload tool
+## YouTube and Pinterest
 
-Videos are published to the essentialine YouTube channel using a small private script authorised through Google OAuth.
-It acts only on that one channel, on the owner's behalf.
-It does not read, collect,
-or store any data belonging to anyone else,
-and requests no access to other people's Google accounts.
+The owner publishes to the essentialine YouTube channel and Pinterest account,
+authorised through each service's own login.
+This acts only on those accounts,
+and collects no data about anyone else on either service.
 
 ## Contact
 
