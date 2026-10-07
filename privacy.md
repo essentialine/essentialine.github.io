@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: Privacy Policy
 layout: page
 permalink: /privacy/
 ---
@@ -37,12 +37,27 @@ Playing an embedded video loads content from those services,
 which have their own privacy policies ([Cloudflare](https://www.cloudflare.com/privacypolicy/),
 [YouTube / Google](https://policies.google.com/privacy)).
 
-## YouTube and Pinterest
+## YouTube
 
-The owner publishes to the essentialine YouTube channel and Pinterest account,
-authorised through each service's own login.
-This acts only on those accounts,
-and collects no data about anyone else on either service.
+The owner publishes to the essentialine YouTube channel,
+authorised through YouTube's own login.
+This acts only on that channel,
+and collects no data about anyone else on YouTube.
+
+## Pinterest app
+
+The essentialine Pinterest app (app ID 1620882)
+is a private tool used only by the owner of this site,
+to post essentialine's own drawings to the essentialine Pinterest account.
+It reads that account's username, to confirm it is signed in to the right account,
+its boards, to pick one,
+and its own Pins, so a drawing is never pinned twice,
+and it creates Pins: an image, a title, a description
+and a link to the drawing's print listing.
+It reads nothing about other Pinterest users,
+and shares nothing with anyone.
+The only thing it stores is the account's authorisation,
+which can be revoked at any time in the Pinterest account's settings.
 
 ## Contact
 
