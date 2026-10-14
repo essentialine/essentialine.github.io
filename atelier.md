@@ -30,6 +30,7 @@ that's where it starts.
 I scan and post-process my drawings so that anyone who wants to live with the work can.
 Not everyone can get an original, and I enjoy the scanning and processing work anyway.
 Prints on [Etsy](https://www.etsy.com/shop/essentialine) and [Redbubble](https://www.redbubble.com/people/essentialink/shop).
+You can browse them on [Pinterest](https://www.pinterest.com/essentialinea/).
 
 ---
 
