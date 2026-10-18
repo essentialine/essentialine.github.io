@@ -7,9 +7,19 @@ permalink: /drawing/schiele__der_tod_und_das_madchen/
 pin_image: /assets/images/1915_schiele__der_tod_und_das_madchen/1915_schiele__der_tod_und_das_madchen-pin.jpg
 ---
 
-![]({{ site.baseurl }}/assets/images/1915_schiele__der_tod_und_das_madchen/1915_schiele__der_tod_und_das_madchen-diptych.png)
+![My tracing beside Schiele's Tod und Mädchen]({{ site.baseurl }}/assets/images/1915_schiele__der_tod_und_das_madchen/1915_schiele__der_tod_und_das_madchen-diptych.png)
+*Left: my tracing, Friday 16 October. Right: Egon Schiele,* Tod und Mädchen *(Death and the Maiden), 1915 — oil on canvas, 150 × 180 cm, Österreichische Galerie [Belvedere](https://sammlung.belvedere.at/objects/1968/tod-und-madchen), Wien, inv. 3171. Public domain.*
 
 <small>[Tracing](#tracing) · [Auction](#auction) · [Background](#background)</small>
+
+<a id="tracing"></a>
+
+<iframe
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/c2649d388cd05f7177cf6f626311b8a4/iframe"
+  style="border: none; display: block; width: 100%; margin: 1.5rem auto; aspect-ratio: 16/9;"
+  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+  allowfullscreen="true">
+</iframe>
 
 Schiele's *Tod und Mädchen* (Death and the Maiden), just a striking piece.
 The woman is Wally, his long-time lover,
@@ -80,15 +90,6 @@ I think the original was approximately life-size,
 whereas my tracing is through paper on a small device,
 there's no way to see her eyes, hence I thought to trace her face separately.
 That's where I'll leave it.
-
-<a id="tracing"></a>
-
-<iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/c2649d388cd05f7177cf6f626311b8a4/iframe"
-  style="border: none; display: block; width: 100%; margin: 1.5rem auto; aspect-ratio: 16/9;"
-  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
-  allowfullscreen="true">
-</iframe>
 
 <a id="auction"></a>
 

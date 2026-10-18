@@ -7,7 +7,8 @@ permalink: /drawing/davinci__ginevra_de_benci/
 pin_image: /assets/images/1474_davinci__ginevra_de_benci/1474_davinci__ginevra_de_benci-pin.jpg
 ---
 
-![]({{ site.baseurl }}/assets/images/1474_davinci__ginevra_de_benci/1474_davinci__ginevra_de_benci-diptych.png)
+![My tracing beside Leonardo's Ginevra de' Benci]({{ site.baseurl }}/assets/images/1474_davinci__ginevra_de_benci/1474_davinci__ginevra_de_benci-diptych.png)
+*Left: my tracing, Thursday 15 October. Right: Leonardo da Vinci,* Ginevra de' Benci *, c. 1474–1478 — oil on panel, 38.1 × 37 cm, [National Gallery of Art](https://www.nga.gov/collection/art-object-page.50724.html), Washington, 1967.6.1.a. Public domain.*
 
 <a id="tracing"></a>
 

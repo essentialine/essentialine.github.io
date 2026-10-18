@@ -7,7 +7,8 @@ permalink: /drawing/sargent__madame_gautreau_drinking_a_toast/
 pin_image: /assets/images/1883_sargent__madame_gautreau_drinking_a_toast/1883_sargent__madame_gautreau_drinking_a_toast-tracing-flat.png
 ---
 
-![]({{ site.baseurl }}/assets/images/1883_sargent__madame_gautreau_drinking_a_toast/1883_sargent__madame_gautreau_drinking_a_toast-diptych.png)
+![My tracing beside Sargent's Madame Gautreau Drinking a Toast]({{ site.baseurl }}/assets/images/1883_sargent__madame_gautreau_drinking_a_toast/1883_sargent__madame_gautreau_drinking_a_toast-diptych.png)
+*Left: my tracing, Monday 12 October. Right: John Singer Sargent,* Madame Gautreau Drinking a Toast *, 1882–83 — oil on panel, 32 × 41 cm, [Isabella Stewart Gardner Museum](https://gardnermuseum.emuseum.com/objects/237/madame-gautreau-drinking-a-toast), Boston, P3w41. Public domain.*
 
 <a id="tracing"></a>
 

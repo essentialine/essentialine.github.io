@@ -7,7 +7,8 @@ permalink: /drawing/rodin__hanako/
 pin_image: /assets/images/1906_rodin__hanako/1906_rodin__hanako-tracing-flat.png
 ---
 
-![]({{ site.baseurl }}/assets/images/1906_rodin__hanako/1906_rodin__hanako-diptych.png)
+![My tracing beside Rodin's Hanako]({{ site.baseurl }}/assets/images/1906_rodin__hanako/1906_rodin__hanako-diptych.png)
+*Left: my tracing, Tuesday 6 October. Right: Auguste Rodin,* Hanako *, c. 1906–1907 — graphite with stumping, pen and brown ink, red crayon and gouache wash, 29.9 × 21.4 cm, [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/339710), New York, 10.66.2. Public domain.*
 
 <a id="tracing"></a>
 

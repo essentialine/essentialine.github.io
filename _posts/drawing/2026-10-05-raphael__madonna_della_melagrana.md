@@ -7,7 +7,8 @@ permalink: /drawing/raphael__madonna_della_melagrana/
 pin_image: /assets/images/1504_raphael__madonna_della_melagrana/1504_raphael__madonna_della_melagrana-tracing-flat.png
 ---
 
-![]({{ site.baseurl }}/assets/images/1504_raphael__madonna_della_melagrana/1504_raphael__madonna_della_melagrana-diptych.png)
+![My tracing beside Raphael's Madonna della melagrana]({{ site.baseurl }}/assets/images/1504_raphael__madonna_della_melagrana/1504_raphael__madonna_della_melagrana-diptych.png)
+*Left: my tracing, Monday 5 October. Right: Raffaello Santi, called Raphael,* Madonna della melagrana *(Madonna of the Pomegranate), c. 1504 — black chalk, [Albertina](https://artsandculture.google.com/asset/madonna-of-the-pomegranate-c-1504-raphael/TAGDs7-weXcIGg), Wien, inv. 4879. Public domain.*
 
 <a id="tracing"></a>
 

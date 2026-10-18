@@ -7,7 +7,8 @@ permalink: /drawing/rousseau__portrait_de_monsieur_x/
 pin_image: /assets/images/1906_rousseau__portrait_de_monsieur_x/1906_rousseau__portrait_de_monsieur_x-tracing-flat.png
 ---
 
-![]({{ site.baseurl }}/assets/images/1906_rousseau__portrait_de_monsieur_x/1906_rousseau__portrait_de_monsieur_x-diptych.png)
+![My tracing beside Rousseau's Portrait de Monsieur X]({{ site.baseurl }}/assets/images/1906_rousseau__portrait_de_monsieur_x/1906_rousseau__portrait_de_monsieur_x-diptych.png)
+*Left: my tracing, Saturday 3 October. Right: Henri Rousseau,* Portrait de Monsieur X *(Portrait of Mr. X), 1906 — oil on canvas, 61 × 50 cm, Kunsthaus Zürich (image: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Portrait_de_Monsieur_X.jpg)). Public domain.*
 
 <a id="tracing"></a>
 

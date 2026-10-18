@@ -7,7 +7,8 @@ permalink: /drawing/ingres__etude_pour_la_comtesse_d_haussonville_graphite/
 pin_image: /assets/images/1845_ingres__etude_pour_la_comtesse_d_haussonville_graphite/1845_ingres__etude_pour_la_comtesse_d_haussonville_graphite-pin.jpg
 ---
 
-![]({{ site.baseurl }}/assets/images/1845_ingres__etude_pour_la_comtesse_d_haussonville_graphite/1845_ingres__etude_pour_la_comtesse_d_haussonville_graphite-diptych.png)
+![My tracing beside Ingres's Étude pour la comtesse d'Haussonville]({{ site.baseurl }}/assets/images/1845_ingres__etude_pour_la_comtesse_d_haussonville_graphite/1845_ingres__etude_pour_la_comtesse_d_haussonville_graphite-diptych.png)
+*Left: my tracing, Tuesday 13 October. Right: Jean-Auguste-Dominique Ingres,* Étude pour la comtesse d'Haussonville *(Study for the Portrait of Madame Othenin d'Haussonville), 1842–1845 — graphite on white wove paper, 23.4 × 19.6 cm, [Harvard Art Museums](https://harvardartmuseums.org/collections/object/296779), 1965.294. Public domain.*
 
 <a id="tracing"></a>
 
