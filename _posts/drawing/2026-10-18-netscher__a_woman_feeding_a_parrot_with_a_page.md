@@ -26,7 +26,7 @@ Netscher, who influenced Vermeer,
 from the Dutch Golden Age.
 Vermeer has a lacemaker, so I was thinking of doing that,
 but
-then I saw that his could have been modeled on Netscher's lacemaker.
+then I saw that his could have been modeled on this Netscher.
 So then I started looking at Netscher,
 and I see a clear connection.
 Vermeer takes the light and shadow even further,
