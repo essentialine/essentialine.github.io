@@ -1,0 +1,24 @@
+{
+  "out": "assets/images/1468_botticelli__head_of_a_woman_in_near_profile/1468_botticelli__head_of_a_woman_in_near_profile-diptych.png",
+  "height": 1100,
+  "gutter": 28,
+  "panels": [
+    {
+      "src": ".diptych-work/1468_botticelli__head_of_a_woman_in_near_profile/1468_botticelli__head_of_a_woman_in_near_profile-take1-frame-0408.jpg",
+      "crop": "980x1570+100+350"
+    },
+    {
+      "src": "assets/images/1468_botticelli__head_of_a_woman_in_near_profile/1468_botticelli__head_of_a_woman_in_near_profile-master.jpg"
+    },
+    {
+      "src": "assets/images/1468_botticelli__head_of_a_woman_in_near_profile/1468_botticelli__head_of_a_woman_in_near_profile-tracing-flat.png",
+      "crop": "2820x3850+100+0",
+      "whiteout": [
+        "0,0,2820,195",
+        "2760,0,60,3850",
+        "0,0,40,3850",
+        "0,3790,2820,60"
+      ]
+    }
+  ]
+}
