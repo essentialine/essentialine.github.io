@@ -12,6 +12,29 @@ pin_image: /assets/images/1468_botticelli__head_of_a_woman_in_near_profile/1468_
 
 <small>[Tracing](#tracing) · [Auction](#auction) · [Background](#background)</small>
 
+<a id="tracing"></a>
+
+<div style="display: flex; gap: 14px; justify-content: center; max-width: 560px; margin: 1.5rem auto;">
+  <figure style="flex: 1; max-width: 270px; margin: 0;">
+    <iframe
+      src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/362ff568fe4538de4105ffe8ee1dd2a9/iframe"
+      style="border: none; display: block; width: 100%; aspect-ratio: 9/16;"
+      allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+      allowfullscreen="true">
+    </iframe>
+    <figcaption><small><em>First try, Tuesday 20 October</em></small></figcaption>
+  </figure>
+  <figure style="flex: 1; max-width: 270px; margin: 0;">
+    <iframe
+      src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/a5f191f55faf2c7fe3ecdcc168e8902c/iframe"
+      style="border: none; display: block; width: 100%; aspect-ratio: 9/16;"
+      allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+      allowfullscreen="true">
+    </iframe>
+    <figcaption><small><em>Second try</em></small></figcaption>
+  </figure>
+</div>
+
 Okay, so this is a Botticelli metalpoint drawing,
 this preparation for a painting.
 I didn't know you could find these,
@@ -69,26 +92,6 @@ Another way to do it, I guess, is just maybe with lines,
 heavy lines, maybe there's…
 
 For the lips, I wonder about…
-
-<a id="tracing"></a>
-
-*First try, Tuesday 20 October:*
-
-<iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/362ff568fe4538de4105ffe8ee1dd2a9/iframe"
-  style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
-  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
-  allowfullscreen="true">
-</iframe>
-
-*Second try:*
-
-<iframe
-  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/a5f191f55faf2c7fe3ecdcc168e8902c/iframe"
-  style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
-  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
-  allowfullscreen="true">
-</iframe>
 
 <a id="auction"></a>
 
