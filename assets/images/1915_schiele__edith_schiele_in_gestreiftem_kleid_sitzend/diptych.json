@@ -1,0 +1,14 @@
+{
+  "out": "assets/images/1915_schiele__edith_schiele_in_gestreiftem_kleid_sitzend/1915_schiele__edith_schiele_in_gestreiftem_kleid_sitzend-diptych.png",
+  "height": 1300,
+  "gutter": 28,
+  "left": {
+    "src": "assets/images/1915_schiele__edith_schiele_in_gestreiftem_kleid_sitzend/1915_schiele__edith_schiele_in_gestreiftem_kleid_sitzend-tracing-flat.png",
+    "whiteout": [
+      "0,3840,3024,192"
+    ]
+  },
+  "right": {
+    "src": "assets/images/1915_schiele__edith_schiele_in_gestreiftem_kleid_sitzend/1915_schiele__edith_schiele_in_gestreiftem_kleid_sitzend-master.jpg"
+  }
+}
