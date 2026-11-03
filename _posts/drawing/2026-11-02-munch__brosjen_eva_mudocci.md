@@ -102,5 +102,5 @@ the dampened bare stone refuses it ([Wikipedia](https://en.wikipedia.org/wiki/Li
 - [My tracing of Munch's *Livets dans*](/drawing/munch-livets-dans-line-and-video/) — The Dance of Life, the other Munch
 - [My tracing of Munch's *Laura*](/drawing/munch-laura-line-and-video/) — the same plain line
 - [My tracing of Holbein's *The Lady Parker*](/drawing/holbein__the_lady_parker/) — another anatomical line, four centuries earlier
-VIDEO_LINK_PENDING
+- [Process video — Monday 2 November](https://youtu.be/76HCt14qer4) — the tracing session on YouTube
 
