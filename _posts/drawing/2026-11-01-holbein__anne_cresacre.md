@@ -14,6 +14,13 @@ pin_image: /assets/images/1527_holbein__anne_cresacre/1527_holbein__anne_cresacr
 
 <a id="tracing"></a>
 
+<iframe
+  src="https://customer-6u3hxzse1npi8qpz.cloudflarestream.com/b55571b0b0210a883018113002aaac45/iframe"
+  style="border: none; display: block; width: 100%; max-width: 270px; margin: 1.5rem auto; aspect-ratio: 9/16;"
+  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+  allowfullscreen="true">
+</iframe>
+
 She looks aside toward the viewer, straight, relaxed, her body
 in profile.
 
@@ -89,4 +96,5 @@ and wetted the chalk to make the flesh tone of her face ([Royal Collection](http
 - [*Sir Thomas More and Family* on Wikipedia](https://en.wikipedia.org/wiki/Sir_Thomas_More_and_Family) — the lost painting, the Basel sketch and Lockey's copies
 - [My tracing of Holbein's *The Lady Parker*](/drawing/holbein__the_lady_parker/) — another Holbein chalk head from Windsor, from his last years
 - [My tracing of Munch's *Laura*](/drawing/munch-laura-line-and-video/) — the same plain line, four centuries on
+- [Process video — Sunday 1 November](https://youtu.be/irQWaIzWi58) — the tracing session on YouTube
 
