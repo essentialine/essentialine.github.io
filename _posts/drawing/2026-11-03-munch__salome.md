@@ -8,7 +8,7 @@ pin_image: /assets/images/1903_munch__salome/1903_munch__salome-pin.jpg
 ---
 
 ![My tracing beside Munch's Salome]({{ site.baseurl }}/assets/images/1903_munch__salome/1903_munch__salome-diptych.png)
-*Left: my tracing, Tuesday 3 November — Sakura Pigma Micron 005 in colour. Right: Edvard Munch,* *Salome*, 1903 — lithograph, image 395 × 305 mm, [Munchmuseet](https://www.munch.no/en/object/MM.G.00256), Oslo, MM.G.00256. Public domain.*
+*Left: my tracing, Tuesday 3 November — Sakura Pigma Micron 005 in colour, Blick 9x12 tracing. Right: Edvard Munch,* *Salome*, 1903 — lithograph, image 395 × 305 mm, [Munchmuseet](https://www.munch.no/en/object/MM.G.00256), Oslo, MM.G.00256. Public domain.*
 
 <small>[Tracing](#tracing) · [Auction](#auction) · [Background](#background)</small>
 
