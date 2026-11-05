@@ -8,7 +8,7 @@ pin_image: /assets/images/1896_munch__mannshode_i_kvinnehar/1896_munch__mannshod
 ---
 
 ![My tracing beside Munch's Mannshode i kvinnehår]({{ site.baseurl }}/assets/images/1896_munch__mannshode_i_kvinnehar/1896_munch__mannshode_i_kvinnehar-diptych.png)
-*Left: my tracing, Wednesday 4 November — Pentel FL2B brush pen, Clean Color and Arteza metallic. Right: Edvard Munch,* Mannshode i kvinnehår *(Man's Head in Woman's Hair), 1896 — colour woodcut on wove paper, motif 548 × 382 mm, [Munchmuseet](https://www.munch.no/en/object/MM.G.00569-26), Oslo, MM.G.00569-26. Public domain.*
+*Left: my tracing, Wednesday 4 November — Pentel FL2B brush pen, Clean Color and Arteza metallic, Blick 9x12 tracing. Right: Edvard Munch,* Mannshode i kvinnehår *(Man's Head in Woman's Hair), 1896 — colour woodcut on wove paper, motif 548 × 382 mm, [Munchmuseet](https://www.munch.no/en/object/MM.G.00569-26), Oslo, MM.G.00569-26. Public domain.*
 
 <small>[Tracing](#tracing) · [Auction](#auction) · [Background](#background)</small>
 
