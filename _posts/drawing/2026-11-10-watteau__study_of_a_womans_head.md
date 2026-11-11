@@ -60,8 +60,8 @@ and it carries the museum's inventory number 40024 ([Commons,
 Artwork template](https://commons.wikimedia.org/wiki/File:Antoine_Watteau,_Study_of_a_Woman%27s_Head_(1710s).jpg)).
 Watteau's chalk heads were collected in his own lifetime,
 even by men who found fault with his paintings,
-the comte de Caylus
-and the dealer Gersaint among them ([Wikipedia](https://en.wikipedia.org/wiki/Antoine_Watteau)).
+the comte de Caylus among them,
+and by his dealer and friend Gersaint ([Wikipedia](https://en.wikipedia.org/wiki/Antoine_Watteau)).
 
 <a id="background"></a>
 
