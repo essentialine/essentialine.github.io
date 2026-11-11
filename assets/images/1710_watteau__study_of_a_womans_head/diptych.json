@@ -1,0 +1,11 @@
+{
+  "out": "assets/images/1710_watteau__study_of_a_womans_head/1710_watteau__study_of_a_womans_head-diptych.png",
+  "height": 1300,
+  "gutter": 28,
+  "left": {
+    "src": "assets/images/1710_watteau__study_of_a_womans_head/1710_watteau__study_of_a_womans_head-tracing-flat.png"
+  },
+  "right": {
+    "src": "assets/images/1710_watteau__study_of_a_womans_head/1710_watteau__study_of_a_womans_head-master.jpg"
+  }
+}
