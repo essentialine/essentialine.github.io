@@ -22,3 +22,7 @@ POSTS.md
 
 # diptych.py build intermediates
 .diptych-work/
+
+# other agents' local context — never publish
+AGENTS.md
+.vibe/
