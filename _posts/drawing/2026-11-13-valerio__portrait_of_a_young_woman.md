@@ -21,13 +21,13 @@ pin_image: /assets/images/1860_valerio__portrait_of_a_young_woman/1860_valerio__
   allowfullscreen="true">
 </iframe>
 
-There are a few lines, I think,
+There are a few lines
 that are the finalizations of various stages of earlier searching lines.
 There's curly swirl,
 these final lines,
 a lot of masters do this,
-but at the same time, these have just a precision to them,
-this very real angularity.
+but at the same time, these have just a striking precision to them,
+this real angularity.
 
 A graphite line can be laid down lightly and pressed harder later,
 and the clay in the core sets how dark each pass can go.
@@ -39,17 +39,12 @@ The angularity is often in the edges of the fabrics,
 and where surfaces are bending or turning.
 Valerio was trained by Charlet,
 a lithographer and draughtsman of soldiers.
-
 And even her drapery,
-it's really quite extraordinarily expressive of the shape,
+it's expressive of her shape,
 and then her gaze here.
 
-In Valerio's drawing she looks straight out at us with a small smile,
-but on my tracing her lids come down
-and her eyes read as lowered or closed.
-I specifically don't draw the pupils, as a mask.
-
-We sense the shapes finely.
+In Valerio's drawing she looks straight out at us with a small smile.
+Her eyes are masked, I often don't draw the pupils.
 
 Her head is tipped to her right and turned a little,
 so the line through her eyes
@@ -57,9 +52,8 @@ and the line through her mouth are no longer level,
 but they stay parallel to each other.
 Her jawline is compatible with the side of her face and hair.
 
-I picked this sheet for eye contact.
-Well, it's a good technique,
-we can see the precision, and the end line is expressive.
+I picked this sheet for eye contact and its technique.
+We see precision, and the end line is expressive.
 
 <a id="auction"></a>
 
