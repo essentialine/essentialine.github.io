@@ -1,0 +1,11 @@
+{
+  "out": "assets/images/1900_sargent__lady_with_a_parasol/1900_sargent__lady_with_a_parasol-diptych.png",
+  "height": 1300,
+  "gutter": 28,
+  "left": {
+    "src": "assets/images/1900_sargent__lady_with_a_parasol/1900_sargent__lady_with_a_parasol-tracing-flat.png"
+  },
+  "right": {
+    "src": "assets/images/1900_sargent__lady_with_a_parasol/1900_sargent__lady_with_a_parasol-master.jpg"
+  }
+}
