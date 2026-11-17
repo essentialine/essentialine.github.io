@@ -29,3 +29,10 @@ AGENTS.md
 
 # RCS history of the local context files: never publish
 *,v
+
+# Keep GitHub small (Neal, 2026-11-17): commit only what pages show (diptych, Pin).
+# Masters, phone photos, flat tracings and diptych recipes stay local.
+assets/images/**/*-master.jpg
+assets/images/**/*-tracing.jpg
+assets/images/**/*-tracing-flat.png
+assets/images/**/diptych.json
