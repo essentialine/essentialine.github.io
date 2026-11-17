@@ -26,3 +26,6 @@ POSTS.md
 # other agents' local context — never publish
 AGENTS.md
 .vibe/
+
+# RCS history of the local context files: never publish
+*,v

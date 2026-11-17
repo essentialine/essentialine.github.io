@@ -17,3 +17,20 @@ plugins:
   - jekyll-remote-theme
 sass:
   style: compressed
+
+# A list here replaces Jekyll 3's defaults, so they are repeated first.
+# Then the local agent context (gitignored, private): never build or serve it.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - CLAUDE.md
+  - AGENTS.md
+  - POSTS.md
+  - INFLUENCES.md
+  - "*,v"
+  - _drafts/AGENTS.md

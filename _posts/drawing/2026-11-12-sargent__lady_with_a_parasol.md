@@ -1,6 +1,6 @@
 ---
 title: "Sargent's Lady with a Parasol, in brush pen"
-date: "2026-11-16"
+date: "2026-11-12"
 categories: ["drawing"]
 tags: ["sargent", "john-singer-sargent", "watercolour", "drapery", "parasol", "museu-de-montserrat", "brush-pen"]
 permalink: /drawing/sargent__lady_with_a_parasol/
@@ -25,8 +25,8 @@ And then the Sargent, again this big, billowy sort of dress, this big turn.
 We see, again, her anatomy just perfectly here, indirectly.
 This one has even more just clarity around her knees, her hips, her torso.
 Can't see her hand.
-She lies back fully dressed, her dress covers her from throat to hem, and yet her knees, hips and torso read more clearly than in yesterday's seated sheet.
-The indirection and the achieved sense convey the idea that her underlying form is important to Sargent.
+She lies back fully dressed, the dress covers her from throat to hem, and yet her knees, hips and torso read more clearly than in yesterday's seated sheet.
+The indirection and the achieved sense conveys the idea that her underlying form is important to Sargent.
 
 Just her gaze, big umbrella,
 of course, with the orientation as key, swirling, leading in,
@@ -41,7 +41,7 @@ Again, the use of this big bonnet is, again,
 the same thing in a way as the umbrella.
 
 Her face sits inside two rings, the bonnet's brim and, behind it, the parasol.
-I think it's not a halo, though it suggests one.
+I think it's not a halo though suggests one.
 
 She lies along a long diagonal from the bonnet at top left to the hem at the bottom, and we look at her from somewhere near her feet, so her length is foreshortened.
 It's an exaggeration, the largeness of her dress as she recedes.
