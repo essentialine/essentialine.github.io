@@ -129,7 +129,7 @@ now in the Phillips Collection in Washington ([Wikipedia](https://en.wikipedia.o
 Paul Rosenberg, the Paris dealer of Picasso, Braque
 and Matisse, fled France
 and opened a gallery at 79 East 57th Street in New York in 1940.
-The Nazi looting office took 162 of his paintings from a bank vault in Bordeaux ([Wikipedia](https://en.wikipedia.org/wiki/Paul_Rosenberg_(art_dealer))). *En Canot* went with his business from Paris to New York,
+The Nazi looting office took 162 of his paintings from a bank vault in Bordeaux ([Wikipedia](https://en.wikipedia.org/wiki/Paul_Rosenberg_%28art_dealer%29)). *En Canot* went with his business from Paris to New York,
 and he sold it there to Albert Lasker,
 the man who did much to shape modern advertising ([Sotheby's](https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/pierre-auguste-renoir-en-canot-or-jeune-fille-a-la),
 [Wikipedia](https://en.wikipedia.org/wiki/Albert_Lasker)).
@@ -141,7 +141,7 @@ the man who did much to shape modern advertising ([Sotheby's](https://www.sotheb
 - [En Canot at Sotheby's](https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/pierre-auguste-renoir-en-canot-or-jeune-fille-a-la), lot 8, 18 November 2026, the master
 - [Pierre-Auguste Renoir on Wikipedia](https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir), his life
 - [Charles Edward Haviland on Wikipédia](https://fr.wikipedia.org/wiki/Charles_Edward_Haviland), the first owner (in French)
-- [Paul Rosenberg on Wikipedia](https://en.wikipedia.org/wiki/Paul_Rosenberg_(art_dealer)), the dealer
+- [Paul Rosenberg on Wikipedia](https://en.wikipedia.org/wiki/Paul_Rosenberg_%28art_dealer%29), the dealer
 - [Impressionism on Wikipedia](https://en.wikipedia.org/wiki/Impressionism), paint in tubes and painting outdoors
 
 - [Process video — Saturday 14 November](https://youtu.be/k04vuf0gC5o) — the tracing session on YouTube
