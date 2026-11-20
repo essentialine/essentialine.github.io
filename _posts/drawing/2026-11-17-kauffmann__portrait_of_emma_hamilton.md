@@ -25,7 +25,7 @@ So, beautiful anatomy shading.
 Her eyes are deep, I wonder if I can actually capture that expression.
 I keep her eyes more masklike. I often admire ancient statues.
 
-Her eyelids are very fine, but hard to trace though the paper,
+Her eyelids are very fine, but hard to trace through the paper,
 especially as tracing such a precise actual structure of her eyelid.
 
 I was thinking for a

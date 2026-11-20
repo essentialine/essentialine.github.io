@@ -49,7 +49,7 @@ and after its success the prices of his drawings rose ([Wikipedia](https://en.wi
 
 Egon Schiele was born in Tulln, in Lower Austria, in 1890,
 and Gustav Klimt was his mentor ([Wikipedia](https://en.wikipedia.org/wiki/Egon_Schiele)).
-In 1914 he noticed two sisters, Edith and Adéle Harms,
+In 1914 he noticed two sisters, Edith and Adele Harms,
 who lived with their parents across the street from his studio on the Hietzinger Hauptstraße in Vienna.
 Their father was a master locksmith.
 He married Edith on 17 June 1915,

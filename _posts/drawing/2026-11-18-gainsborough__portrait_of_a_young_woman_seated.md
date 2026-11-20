@@ -36,7 +36,7 @@ So of course the chair.
 
 The water brush is quite useful for some of this.
 I wouldn't put so much drapery,
-but now I do see the drapery works an interesting way to give the overall sort of figure.
+but now I do see the drapery works in an interesting way to give the overall sort of figure.
 And then it was kind of good to leave off that far line.
 It's very faint, and works without it.
 That's just an interesting, almost a semantic thing.
